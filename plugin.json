@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ryu.video-studio",
+  "version": "0.1.15",
+  "description": "Edit layered video timelines, review storyboards, add timed captions, and render finished videos on your Ryu node.",
+  "author": {
+    "name": "Ryu",
+    "url": "https://ryuhq.com"
+  },
+  "homepage": "https://github.com/amajorai/ryu-video-studio",
+  "repository": "https://github.com/amajorai/ryu-video-studio",
+  "keywords": [
+    "video",
+    "editor",
+    "timeline",
+    "storyboard",
+    "captions",
+    "render"
+  ],
+  "extensions": {
+    "com.ryuhq.ryu": {
+      "id": "@ryu/video-studio",
+      "displayName": "Video Studio"
+    }
+  }
+}

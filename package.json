@@ -1,0 +1,8 @@
+{
+  "name": "ryu-video-studio-satellite",
+  "private": true,
+  "workspaces": [
+    "sidecar",
+    "packages/*"
+  ]
+}
