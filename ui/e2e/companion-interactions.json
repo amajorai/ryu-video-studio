@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "package": "video-studio",
+  "scope": "partial",
+  "expectedRows": 8,
+  "selector": {
+    "spec": "e2e/video-studio-interactions.spec.ts",
+    "config": "e2e/video-studio-interactions.playwright.config.ts"
+  },
+  "evidenceBoundary": "The package suite builds the real Video Studio UI and sidecar, with each run in an isolated temporary RYU_DIR. It covers local tab routing, project persistence, vector edits, local OBJ/glTF parsing, recipe/layout edits, pointer/keyboard timeline edits, and local FFmpeg export. No stock provider, model, media generation, Spaces service, remote media, or device surface is invoked. The export case accepts a completed MP4 when the host has libass, or asserts the user-visible subtitles/libass error and Retry state when the host FFmpeg lacks that filter. Source row relocation only; no new current-source execution or behavioral closure is claimed by this map update. W5-I2 rows (each names its own spec) come from the evidence specs that the default config now runs; they drive the real UI and sidecar in a local browser host with no Ryu chat, media or model bridge, so Ask agent and AI gap fill are proven only in their unavailable states.",
+  "assertions": [
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/panels/LibraryTabs.tsx",
+        "line": "78",
+        "component": "LibraryTabs",
+        "tag": "Tabs",
+        "events": "onValueChange"
+      },
+      "testTitle": "all Video Studio category tabs open their real panels",
+      "assertionName": "Every category tab opens its corresponding visible editor panel.",
+      "assertionMarker": "for (const [label, value, heading] of categories)"
+    },
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/inspector/sections/TransformSection.tsx",
+        "line": "155",
+        "component": "TransformSection",
+        "tag": "NumberField",
+        "events": "onChange"
+      },
+      "testTitle": "NumberField, keyboard, and pointer timeline edits save and read back",
+      "assertionName": "Timeline NumberField reverts invalid expressions, clamps out-of-range values, evaluates typed arithmetic, and saves the valid timeline start.",
+      "assertionMarker": "await start.fill(\"10.5/2\");"
+    },
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/GraphicsPanel.tsx",
+        "line": "424",
+        "component": "GraphicsPanel",
+        "tag": "ColorPickerPopover",
+        "events": "onValueChange"
+      },
+      "testTitle": "Vector graphics color and bounded number inputs persist and update preview",
+      "assertionName": "The fill color updates the rendered triangle and reads back from the saved project.",
+      "assertionMarker": "await setColor(page, \"Graphic 1 fill color\", \"#E74795\");"
+    },
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/GraphicsPanel.tsx",
+        "line": "412",
+        "component": "GraphicsPanel",
+        "tag": "NumberField",
+        "events": "onChange"
+      },
+      "testTitle": "Vector graphics color and bounded number inputs persist and update preview",
+      "assertionName": "Out-of-range graphic numbers reset and valid values persist on blur.",
+      "assertionMarker": "await left.fill(\"1.2\");"
+    },
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/LayoutPanel.tsx",
+        "line": "73",
+        "component": "LayoutPanel",
+        "tag": "NativeSelect",
+        "events": "onChange"
+      },
+      "testTitle": "production recipe and layout save an editable project and render it locally",
+      "assertionName": "Selecting a non-default layout places saved clips into the expected grid slots.",
+      "assertionMarker": "await page.getByLabel(\"Layout preset\").selectOption(\"grid-2x2\");"
+    },
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/MeshPanel.tsx",
+        "line": "294",
+        "component": "MeshPanel",
+        "tag": "input",
+        "events": "onChange"
+      },
+      "testTitle": "mesh import rejects external glTF buffers and recovers with a local OBJ",
+      "assertionName": "External glTF buffers are rejected without a request and a valid local OBJ reads back.",
+      "assertionMarker": "External glTF buffers are not accepted."
+    },
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/RecipePanel.tsx",
+        "line": "38",
+        "component": "RecipePanel",
+        "tag": "NativeSelect",
+        "events": "onChange"
+      },
+      "testTitle": "production recipe and layout save an editable project and render it locally",
+      "assertionName": "The selected recipe sends the exact assets, title, format, and shot-duration payload.",
+      "assertionMarker": "await page.getByLabel(\"Production recipe\").selectOption(\"cinematic\");"
+    },
+    {
+      "row": {
+        "package": "video-studio",
+        "source_file": "apps-store/video-studio/ui/src/timeline/TimelineClip.tsx",
+        "line": "158",
+        "component": "TimelineClip",
+        "tag": "Button",
+        "events": "onClick,onKeyDown,onPointerDown,onPointerUp"
+      },
+      "testTitle": "NumberField, keyboard, and pointer timeline edits save and read back",
+      "assertionName": "Alt-arrow movement and pointer move/trim gestures persist their timeline readback.",
+      "assertionMarker": "await page.mouse.move(centerX + 35, centerY + 54, { steps: 3 });"
+    }
+  ]
+}

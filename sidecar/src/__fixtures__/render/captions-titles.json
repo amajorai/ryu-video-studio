@@ -1,0 +1,244 @@
+{
+  "assets": [
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "name": "video fixture",
+      "kind": "video",
+      "duration": 6,
+      "width": 640,
+      "height": 360,
+      "hasAudio": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "assFile": "captions.ass",
+  "frameTimes": [2.25],
+  "project": {
+    "schemaVersion": 1,
+    "id": "00000000-0000-4000-8000-000000000001",
+    "revision": 0,
+    "title": "Captions and titles",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "exportPreset": "master",
+    "exportCodec": "h264",
+    "styleProfile": "clean-professional",
+    "markers": [],
+    "trackSettings": [],
+    "segments": [
+      {
+        "id": "00000000-0000-4000-8000-000000000003",
+        "assetId": "00000000-0000-4000-8000-000000000002",
+        "track": 0,
+        "start": 0,
+        "sourceIn": 0,
+        "sourceOut": 6,
+        "speed": 1,
+        "volume": 1,
+        "opacity": 1,
+        "scale": 1,
+        "x": 0,
+        "y": 0,
+        "crop": {
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0
+        },
+        "edgeRounding": 0,
+        "edgeSoftness": 0,
+        "colorGrade": {
+          "exposure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0
+        },
+        "effects": [],
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "rotation": 0,
+        "visualEffect": "none",
+        "fadeIn": 0,
+        "fadeOut": 0,
+        "keyframes": [],
+        "visualization": "none",
+        "entryTransition": "none",
+        "entryDuration": 0.5,
+        "entryOffset": 0,
+        "waveformHeight": 0.2,
+        "waveformColor": "#ffffff",
+        "duckUnderVoice": false,
+        "audioProcessing": "none"
+      }
+    ],
+    "captions": [
+      {
+        "id": "00000000-0000-4000-8000-000000000004",
+        "start": 0,
+        "end": 1.5,
+        "text": "Plain caption {braces} \\ slash"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000005",
+        "start": 1.5,
+        "end": 3,
+        "text": "Word level caption",
+        "words": [
+          {
+            "id": "00000000-0000-4000-8000-000000000006",
+            "start": 1.5,
+            "end": 2,
+            "text": "Word"
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000007",
+            "start": 2,
+            "end": 2.5,
+            "text": "level"
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000008",
+            "start": 2.5,
+            "end": 3,
+            "text": "caption"
+          }
+        ],
+        "highlightColor": "#00ccff"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000009",
+        "start": 3,
+        "end": 4.2,
+        "text": "Two\nlines"
+      }
+    ],
+    "captionTracks": [],
+    "captionTrackId": null,
+    "titles": [
+      {
+        "id": "00000000-0000-4000-8000-000000000010",
+        "start": 0,
+        "end": 1,
+        "text": "Title fade",
+        "x": 0.5,
+        "y": 0.2,
+        "fontSize": 0.06,
+        "color": "#12abef",
+        "fadeIn": 0.25,
+        "fadeOut": 0.3,
+        "animation": "fade"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000011",
+        "start": 0.5,
+        "end": 2,
+        "text": "Title slide-up",
+        "x": 0.5,
+        "y": 0.30000000000000004,
+        "fontSize": 0.06,
+        "color": "#12abef",
+        "fadeIn": 0.25,
+        "fadeOut": 0.3,
+        "animation": "slide-up"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000012",
+        "start": 1,
+        "end": 3,
+        "text": "Title slide-down",
+        "x": 0.5,
+        "y": 0.4,
+        "fontSize": 0.06,
+        "color": "#12abef",
+        "fadeIn": 0.25,
+        "fadeOut": 0.3,
+        "animation": "slide-down"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000013",
+        "start": 1.5,
+        "end": 4,
+        "text": "Title slide-left",
+        "x": 0.5,
+        "y": 0.5,
+        "fontSize": 0.06,
+        "color": "#12abef",
+        "fadeIn": 0.25,
+        "fadeOut": 0.3,
+        "animation": "slide-left"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000014",
+        "start": 2,
+        "end": 5,
+        "text": "Title slide-right",
+        "x": 0.5,
+        "y": 0.6000000000000001,
+        "fontSize": 0.06,
+        "color": "#12abef",
+        "fadeIn": 0.25,
+        "fadeOut": 0.3,
+        "animation": "slide-right"
+      }
+    ],
+    "graphics": [],
+    "avatars": [],
+    "spatialObjects": [],
+    "stageWorldPrompt": "",
+    "stageCamera": {
+      "x": 0,
+      "y": 0,
+      "zoom": 1,
+      "orbit": 0,
+      "tilt": 0
+    },
+    "meshes": [],
+    "productionBudget": {
+      "estimates": {
+        "audio": 100000,
+        "image": 250000,
+        "video": 1000000
+      },
+      "limitMicroUsd": 0
+    },
+    "decisions": [],
+    "stages": [
+      {
+        "id": "research",
+        "status": "pending"
+      },
+      {
+        "id": "proposal",
+        "status": "pending"
+      },
+      {
+        "id": "script",
+        "status": "pending"
+      },
+      {
+        "id": "scene_plan",
+        "status": "pending"
+      },
+      {
+        "id": "assets",
+        "status": "pending"
+      },
+      {
+        "id": "edit",
+        "status": "pending"
+      },
+      {
+        "id": "compose",
+        "status": "pending"
+      }
+    ],
+    "brief": "",
+    "multicamGroups": [],
+    "scenes": [],
+    "researchSources": [],
+    "requireApproval": false,
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+}
