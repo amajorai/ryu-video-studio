@@ -1,0 +1,192 @@
+{
+  "assets": [
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "name": "audio fixture",
+      "kind": "audio",
+      "duration": 3,
+      "width": 0,
+      "height": 0,
+      "hasAudio": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "name": "silent",
+      "kind": "audio",
+      "duration": 2,
+      "width": 0,
+      "height": 0,
+      "hasAudio": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "frameTimes": [0.75],
+  "project": {
+    "schemaVersion": 1,
+    "id": "00000000-0000-4000-8000-000000000001",
+    "revision": 0,
+    "title": "Waveform",
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "exportPreset": "master",
+    "exportCodec": "h264",
+    "styleProfile": "clean-professional",
+    "markers": [],
+    "trackSettings": [],
+    "segments": [
+      {
+        "id": "00000000-0000-4000-8000-000000000004",
+        "assetId": "00000000-0000-4000-8000-000000000002",
+        "track": 0,
+        "start": 0,
+        "sourceIn": 0,
+        "sourceOut": 3,
+        "speed": 1.25,
+        "volume": 1,
+        "opacity": 1,
+        "scale": 1,
+        "x": 0,
+        "y": 0,
+        "crop": {
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0
+        },
+        "edgeRounding": 0,
+        "edgeSoftness": 0,
+        "colorGrade": {
+          "exposure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0
+        },
+        "effects": [],
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "rotation": 0,
+        "visualEffect": "none",
+        "fadeIn": 0.2,
+        "fadeOut": 0,
+        "keyframes": [],
+        "visualization": "waveform",
+        "entryTransition": "none",
+        "entryDuration": 0.5,
+        "entryOffset": 0,
+        "waveformHeight": 0.35,
+        "waveformColor": "#ff8800",
+        "duckUnderVoice": false,
+        "audioProcessing": "normalize"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000005",
+        "assetId": "00000000-0000-4000-8000-000000000003",
+        "track": 1,
+        "start": 0.5,
+        "sourceIn": 0,
+        "sourceOut": 2,
+        "speed": 1,
+        "volume": 0,
+        "opacity": 1,
+        "scale": 1,
+        "x": 0,
+        "y": 0,
+        "crop": {
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0
+        },
+        "edgeRounding": 0,
+        "edgeSoftness": 0,
+        "colorGrade": {
+          "exposure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0
+        },
+        "effects": [],
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "rotation": 0,
+        "visualEffect": "none",
+        "fadeIn": 0,
+        "fadeOut": 0,
+        "keyframes": [],
+        "visualization": "waveform",
+        "entryTransition": "none",
+        "entryDuration": 0.5,
+        "entryOffset": 0,
+        "waveformHeight": 0.2,
+        "waveformColor": "#ffffff",
+        "duckUnderVoice": false,
+        "audioProcessing": "none"
+      }
+    ],
+    "captions": [],
+    "captionTracks": [],
+    "captionTrackId": null,
+    "titles": [],
+    "graphics": [],
+    "avatars": [],
+    "spatialObjects": [],
+    "stageWorldPrompt": "",
+    "stageCamera": {
+      "x": 0,
+      "y": 0,
+      "zoom": 1,
+      "orbit": 0,
+      "tilt": 0
+    },
+    "meshes": [],
+    "productionBudget": {
+      "estimates": {
+        "audio": 100000,
+        "image": 250000,
+        "video": 1000000
+      },
+      "limitMicroUsd": 0
+    },
+    "decisions": [],
+    "stages": [
+      {
+        "id": "research",
+        "status": "pending"
+      },
+      {
+        "id": "proposal",
+        "status": "pending"
+      },
+      {
+        "id": "script",
+        "status": "pending"
+      },
+      {
+        "id": "scene_plan",
+        "status": "pending"
+      },
+      {
+        "id": "assets",
+        "status": "pending"
+      },
+      {
+        "id": "edit",
+        "status": "pending"
+      },
+      {
+        "id": "compose",
+        "status": "pending"
+      }
+    ],
+    "brief": "",
+    "multicamGroups": [],
+    "scenes": [],
+    "researchSources": [],
+    "requireApproval": false,
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+}
