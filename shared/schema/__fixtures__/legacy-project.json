@@ -1,0 +1,583 @@
+{
+  "assets": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "name": "Camera A",
+      "kind": "video",
+      "duration": 12,
+      "width": 1920,
+      "height": 1080,
+      "hasAudio": true,
+      "createdAt": "2026-01-02T03:04:05.000Z",
+      "timecodeFrameRate": 25,
+      "timecodeStart": "01:00:00:00"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "name": "Camera B",
+      "kind": "video",
+      "duration": 12,
+      "width": 1920,
+      "height": 1080,
+      "hasAudio": true,
+      "createdAt": "2026-01-02T03:04:05.000Z"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "name": "Voice",
+      "kind": "audio",
+      "duration": 12,
+      "width": 0,
+      "height": 0,
+      "hasAudio": true,
+      "createdAt": "2026-01-02T03:04:05.000Z",
+      "derivedFromAssetId": "00000000-0000-4000-8000-000000000001",
+      "derivation": "audio"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000004",
+      "name": "Still",
+      "folder": "stills/day-1",
+      "kind": "image",
+      "duration": 0,
+      "width": 1920,
+      "height": 1080,
+      "hasAudio": false,
+      "createdAt": "2026-01-02T03:04:05.000Z",
+      "origin": {
+        "attribution": "Example",
+        "identifier": "img-1",
+        "pageUrl": "https://example.com/img-1",
+        "provider": "openverse.image",
+        "rights": "CC0"
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "name": "Camera A reversed",
+      "kind": "video",
+      "duration": 12,
+      "width": 1920,
+      "height": 1080,
+      "hasAudio": true,
+      "createdAt": "2026-01-02T03:04:05.000Z",
+      "derivedFromAssetId": "00000000-0000-4000-8000-000000000001",
+      "derivation": "reverse"
+    }
+  ],
+  "project": {
+    "schemaVersion": 1,
+    "id": "00000000-0000-4000-8000-000000000018",
+    "revision": 7,
+    "title": "Legacy fixture",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "exportPreset": "review",
+    "exportCodec": "prores",
+    "styleProfile": "cinematic",
+    "markers": [
+      {
+        "id": "00000000-0000-4000-8000-000000000019",
+        "label": "Intro",
+        "time": 0.5
+      },
+      {
+        "color": "#ff0000",
+        "comment": "Check grade",
+        "duration": 2,
+        "id": "00000000-0000-4000-8000-000000000020",
+        "label": "Review",
+        "status": "review",
+        "time": 3
+      }
+    ],
+    "trackSettings": [
+      {
+        "locked": false,
+        "muted": false,
+        "name": "Picture",
+        "solo": false,
+        "track": 0
+      },
+      {
+        "locked": true,
+        "muted": false,
+        "name": "Overlay",
+        "solo": false,
+        "track": 1
+      },
+      {
+        "locked": false,
+        "muted": false,
+        "name": "Dialogue",
+        "solo": true,
+        "track": 2
+      }
+    ],
+    "segments": [
+      {
+        "id": "00000000-0000-4000-8000-000000000007",
+        "assetId": "00000000-0000-4000-8000-000000000001",
+        "linkGroupId": "00000000-0000-4000-8000-000000000006",
+        "track": 0,
+        "start": 0,
+        "sourceIn": 0,
+        "sourceOut": 8,
+        "speed": 1,
+        "volume": 1,
+        "opacity": 1,
+        "scale": 1,
+        "x": 0,
+        "y": 0,
+        "crop": {
+          "bottom": 0.1,
+          "left": 0.05,
+          "right": 0,
+          "top": 0
+        },
+        "edgeRounding": 0,
+        "edgeSoftness": 0,
+        "colorGrade": {
+          "exposure": 0.2,
+          "temperature": -0.1,
+          "tint": 0,
+          "vibrance": 0.3
+        },
+        "effects": [
+          {
+            "amount": 0.5,
+            "enabled": true,
+            "type": "blur"
+          },
+          {
+            "amount": 1,
+            "enabled": false,
+            "type": "vignette"
+          }
+        ],
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "rotation": 0,
+        "visualEffect": "sepia",
+        "fadeIn": 0,
+        "fadeOut": 0,
+        "keyframes": [
+          {
+            "id": "00000000-0000-4000-8000-000000000008",
+            "time": 0,
+            "property": "opacity",
+            "value": 0
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000009",
+            "time": 1,
+            "property": "opacity",
+            "value": 1
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000010",
+            "time": 2.5,
+            "property": "scale",
+            "value": 1.4
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000011",
+            "time": 4,
+            "property": "x",
+            "value": -0.25
+          }
+        ],
+        "visualization": "none",
+        "entryTransition": "slide-left",
+        "entryDuration": 0.5,
+        "entryOffset": 0,
+        "waveformHeight": 0.2,
+        "waveformColor": "#ffffff",
+        "duckUnderVoice": false,
+        "audioProcessing": "none"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000012",
+        "assetId": "00000000-0000-4000-8000-000000000003",
+        "linkGroupId": "00000000-0000-4000-8000-000000000006",
+        "track": 2,
+        "start": 0,
+        "sourceIn": 0,
+        "sourceOut": 8,
+        "speed": 1,
+        "volume": 1,
+        "opacity": 1,
+        "scale": 1,
+        "x": 0,
+        "y": 0,
+        "crop": {
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0
+        },
+        "edgeRounding": 0,
+        "edgeSoftness": 0,
+        "colorGrade": {
+          "exposure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0
+        },
+        "effects": [],
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "rotation": 0,
+        "visualEffect": "none",
+        "fadeIn": 0,
+        "fadeOut": 0,
+        "keyframes": [
+          {
+            "id": "00000000-0000-4000-8000-000000000013",
+            "time": 3,
+            "property": "volume",
+            "value": 0.5
+          }
+        ],
+        "visualization": "none",
+        "entryTransition": "none",
+        "entryDuration": 0.5,
+        "entryOffset": 0,
+        "waveformHeight": 0.2,
+        "waveformColor": "#ffffff",
+        "duckUnderVoice": true,
+        "audioProcessing": "voice-enhance"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000014",
+        "assetId": "00000000-0000-4000-8000-000000000004",
+        "track": 1,
+        "start": 2,
+        "sourceIn": 0,
+        "sourceOut": 3,
+        "speed": 1,
+        "volume": 1,
+        "opacity": 1,
+        "scale": 0.4,
+        "x": 0.5,
+        "y": -0.5,
+        "crop": {
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0
+        },
+        "edgeRounding": 0.2,
+        "edgeSoftness": 4,
+        "colorGrade": {
+          "exposure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0
+        },
+        "effects": [],
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "rotation": 12,
+        "visualEffect": "none",
+        "fadeIn": 0.5,
+        "fadeOut": 0.5,
+        "keyframes": [],
+        "visualization": "none",
+        "entryTransition": "none",
+        "entryDuration": 0.5,
+        "entryOffset": 0,
+        "waveformHeight": 0.2,
+        "waveformColor": "#ffffff",
+        "duckUnderVoice": false,
+        "audioProcessing": "none"
+      },
+      {
+        "id": "00000000-0000-4000-8000-000000000015",
+        "assetId": "00000000-0000-4000-8000-000000000002",
+        "track": 0,
+        "start": 8,
+        "sourceIn": 1,
+        "sourceOut": 9,
+        "speed": 2,
+        "volume": 1,
+        "opacity": 1,
+        "scale": 1,
+        "x": 0,
+        "y": 0,
+        "crop": {
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0
+        },
+        "edgeRounding": 0,
+        "edgeSoftness": 0,
+        "colorGrade": {
+          "exposure": 0,
+          "temperature": 0,
+          "tint": 0,
+          "vibrance": 0
+        },
+        "effects": [],
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "rotation": 0,
+        "visualEffect": "none",
+        "fadeIn": 0,
+        "fadeOut": 0,
+        "keyframes": [],
+        "visualization": "waveform",
+        "entryTransition": "none",
+        "entryDuration": 0.5,
+        "entryOffset": 0,
+        "waveformHeight": 0.2,
+        "waveformColor": "#22aa88",
+        "duckUnderVoice": false,
+        "audioProcessing": "none"
+      }
+    ],
+    "captions": [
+      {
+        "id": "00000000-0000-4000-8000-000000000021",
+        "start": 0.5,
+        "end": 2,
+        "text": "Hello there",
+        "words": [
+          {
+            "id": "00000000-0000-4000-8000-000000000022",
+            "start": 0.5,
+            "end": 1,
+            "text": "Hello"
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000023",
+            "start": 1.2,
+            "end": 2,
+            "text": "there"
+          }
+        ],
+        "highlightColor": "#ffcc00"
+      }
+    ],
+    "captionTracks": [
+      {
+        "captions": [
+          {
+            "id": "00000000-0000-4000-8000-000000000024",
+            "start": 1,
+            "end": 3,
+            "text": "Bonjour"
+          }
+        ],
+        "id": "00000000-0000-4000-8000-000000000017",
+        "label": "French",
+        "language": "fr"
+      }
+    ],
+    "captionTrackId": "00000000-0000-4000-8000-000000000017",
+    "titles": [
+      {
+        "id": "00000000-0000-4000-8000-000000000025",
+        "start": 1,
+        "end": 4,
+        "text": "Chapter one",
+        "x": 0.5,
+        "y": 0.2,
+        "fontSize": 0.08,
+        "color": "#ffffff",
+        "fadeIn": 0.3,
+        "fadeOut": 0.3,
+        "animation": "slide-up"
+      }
+    ],
+    "graphics": [
+      {
+        "animation": "slide-left",
+        "end": 5,
+        "entryDuration": 0.35,
+        "fill": "#123456",
+        "height": 0.1,
+        "id": "00000000-0000-4000-8000-000000000026",
+        "opacity": 0.8,
+        "shape": "ellipse",
+        "start": 2,
+        "stroke": "#ffffff",
+        "strokeWidth": 0.01,
+        "width": 0.2,
+        "x": 0.1,
+        "y": 0.9
+      }
+    ],
+    "avatars": [
+      {
+        "accent": "#ff8800",
+        "animation": "idle",
+        "depth": 0.45,
+        "end": 6,
+        "entryDuration": 0.35,
+        "height": 0.5,
+        "id": "00000000-0000-4000-8000-000000000027",
+        "outfit": "#334455",
+        "pose": "wave",
+        "rigKeyframes": [
+          {
+            "id": "00000000-0000-4000-8000-000000000028",
+            "property": "mouth",
+            "time": 1,
+            "value": 0.5
+          }
+        ],
+        "skin": "#c68642",
+        "start": 1,
+        "width": 0.3,
+        "x": 0.8,
+        "y": 0.6
+      }
+    ],
+    "spatialObjects": [
+      {
+        "animation": "float",
+        "depth": 0.2,
+        "end": 4,
+        "entryDuration": 0.4,
+        "fill": "#00ff00",
+        "height": 0.2,
+        "id": "00000000-0000-4000-8000-000000000029",
+        "start": 0,
+        "width": 0.2,
+        "x": 0,
+        "y": 0,
+        "z": 0.1
+      }
+    ],
+    "stageWorldPrompt": "",
+    "stageCamera": {
+      "x": 0,
+      "y": 0,
+      "zoom": 1,
+      "orbit": 0,
+      "tilt": 0
+    },
+    "meshes": [
+      {
+        "faces": [[0, 1, 2]],
+        "vertices": [[0, 0, 0], [1, 0, 0], [0, 1, 0]],
+        "end": 3,
+        "fill": "#abcdef",
+        "id": "00000000-0000-4000-8000-000000000030",
+        "rotationX": 10,
+        "rotationY": 20,
+        "rotationZ": 0,
+        "scale": 0.3,
+        "start": 0,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    ],
+    "productionBudget": {
+      "estimates": {
+        "audio": 100000,
+        "image": 250000,
+        "video": 1000000
+      },
+      "limitMicroUsd": 0
+    },
+    "decisions": [],
+    "stages": [
+      {
+        "id": "research",
+        "status": "pending"
+      },
+      {
+        "id": "proposal",
+        "status": "pending"
+      },
+      {
+        "id": "script",
+        "status": "pending"
+      },
+      {
+        "id": "scene_plan",
+        "status": "pending"
+      },
+      {
+        "id": "assets",
+        "status": "pending"
+      },
+      {
+        "id": "edit",
+        "status": "pending"
+      },
+      {
+        "id": "compose",
+        "status": "pending"
+      }
+    ],
+    "brief": "A legacy project fixture covering every pre-W0 surface.",
+    "multicamGroups": [
+      {
+        "duration": 8,
+        "id": "00000000-0000-4000-8000-000000000016",
+        "masterAssetId": "00000000-0000-4000-8000-000000000001",
+        "members": [
+          {
+            "assetId": "00000000-0000-4000-8000-000000000001",
+            "kind": "both",
+            "label": "A",
+            "offsetSeconds": 0
+          },
+          {
+            "assetId": "00000000-0000-4000-8000-000000000002",
+            "kind": "angle",
+            "label": "B",
+            "offsetSeconds": 0.4
+          }
+        ],
+        "name": "Interview",
+        "segmentIds": ["00000000-0000-4000-8000-000000000007"],
+        "start": 0,
+        "switches": [
+          {
+            "angle": "A",
+            "end": 4,
+            "start": 0
+          },
+          {
+            "angle": "B",
+            "end": 8,
+            "start": 4
+          }
+        ]
+      }
+    ],
+    "scenes": [
+      {
+        "id": "00000000-0000-4000-8000-000000000031",
+        "title": "Opening",
+        "script": "Hello there",
+        "prompt": "Open on the interview",
+        "assetIds": [
+          "00000000-0000-4000-8000-000000000001",
+          "00000000-0000-4000-8000-000000000003"
+        ],
+        "audioOffsets": {
+          "00000000-0000-4000-8000-000000000003": 1
+        },
+        "duration": 5,
+        "sourceIn": 0,
+        "reviewStatus": "approved",
+        "approved": true
+      }
+    ],
+    "researchSources": [],
+    "requireApproval": true,
+    "updatedAt": "2026-01-02T03:04:05.000Z"
+  }
+}

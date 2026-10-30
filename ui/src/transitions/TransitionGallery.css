@@ -1,0 +1,82 @@
+/* Transition gallery (W2-V10). Layer motion comes from generated @keyframes. */
+.studio-transition-gallery {
+	display: grid;
+	gap: 0.5rem;
+}
+.studio-transition-gallery__group {
+	min-width: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+.studio-transition-gallery__group > legend {
+	padding: 0 0 0.25rem;
+	font-size: 0.75rem;
+	opacity: 0.7;
+}
+.studio-transition-gallery__tiles {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(5.5rem, 1fr));
+	gap: 0.375rem;
+}
+.studio-transition-gallery__tile {
+	display: grid;
+	gap: 0.25rem;
+	padding: 0.25rem;
+	font: inherit;
+	font-size: 0.6875rem;
+	color: inherit;
+	text-align: start;
+	cursor: grab;
+	background: transparent;
+	border: 1px solid var(--border, rgb(128 128 128 / 0.35));
+	border-radius: 0.375rem;
+}
+.studio-transition-gallery__tile:disabled {
+	cursor: not-allowed;
+	opacity: 0.5;
+}
+.studio-transition-gallery__tile[aria-pressed="true"] {
+	border-color: var(--primary, currentColor);
+	box-shadow: 0 0 0 1px var(--primary, currentColor);
+}
+.studio-transition-gallery__tile:focus-visible {
+	outline: 2px solid var(--ring, currentColor);
+	outline-offset: 1px;
+}
+.studio-transition-gallery__demo {
+	position: relative;
+	display: block;
+	height: 3.375rem;
+	overflow: hidden;
+	background: #000;
+	border-radius: 0.25rem;
+}
+.studio-transition-gallery__layer {
+	position: absolute;
+	inset: 0;
+	display: grid;
+	place-items: center;
+	font-weight: 600;
+	color: #fff;
+	animation-duration: 1.8s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+.studio-transition-gallery__layer--a {
+	background: #c2410c;
+}
+.studio-transition-gallery__layer--b {
+	background: #1d4ed8;
+}
+.studio-transition-gallery__label {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+@media (prefers-reduced-motion: reduce) {
+	.studio-transition-gallery__layer {
+		animation-delay: -0.6s;
+		animation-play-state: paused;
+	}
+}
