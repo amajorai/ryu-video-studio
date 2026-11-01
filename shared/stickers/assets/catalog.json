@@ -1,0 +1,7599 @@
+[
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f600.svg",
+    "id": "emoji-1f600",
+    "keywords": [
+      "cheerful",
+      "cheery",
+      "face",
+      "grin",
+      "grinning",
+      "happy",
+      "laugh",
+      "nice",
+      "smile",
+      "smiling",
+      "teeth",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Grinning face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f603.svg",
+    "id": "emoji-1f603",
+    "keywords": [
+      "awesome",
+      "big",
+      "eyes",
+      "face",
+      "grin",
+      "grinning",
+      "happy",
+      "mouth",
+      "open",
+      "smile",
+      "smiling",
+      "teeth",
+      "yay",
+      "emoji"
+    ],
+    "name": "Grinning face with big eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f604.svg",
+    "id": "emoji-1f604",
+    "keywords": [
+      "eye",
+      "eyes",
+      "face",
+      "grin",
+      "grinning",
+      "happy",
+      "laugh",
+      "lol",
+      "mouth",
+      "open",
+      "smile",
+      "smiling",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Grinning face with smiling eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f601.svg",
+    "id": "emoji-1f601",
+    "keywords": [
+      "beaming",
+      "eye",
+      "eyes",
+      "face",
+      "grin",
+      "grinning",
+      "happy",
+      "nice",
+      "smile",
+      "smiling",
+      "teeth",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Beaming face with smiling eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f606.svg",
+    "id": "emoji-1f606",
+    "keywords": [
+      "closed",
+      "eyes",
+      "face",
+      "grinning",
+      "haha",
+      "hahaha",
+      "happy",
+      "laugh",
+      "lol",
+      "mouth",
+      "open",
+      "rofl",
+      "smile",
+      "smiling"
+    ],
+    "name": "Grinning squinting face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f605.svg",
+    "id": "emoji-1f605",
+    "keywords": [
+      "cold",
+      "dejected",
+      "excited",
+      "face",
+      "grinning",
+      "mouth",
+      "nervous",
+      "open",
+      "smile",
+      "smiling",
+      "stress",
+      "stressed",
+      "sweat",
+      "emoji"
+    ],
+    "name": "Grinning face with sweat",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f923.svg",
+    "id": "emoji-1f923",
+    "keywords": [
+      "crying",
+      "face",
+      "floor",
+      "funny",
+      "haha",
+      "happy",
+      "hehe",
+      "hilarious",
+      "joy",
+      "laugh",
+      "lmao",
+      "lol",
+      "rofl",
+      "roflmao"
+    ],
+    "name": "Rolling on the floor laughing",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f602.svg",
+    "id": "emoji-1f602",
+    "keywords": [
+      "crying",
+      "face",
+      "feels",
+      "funny",
+      "haha",
+      "happy",
+      "hehe",
+      "hilarious",
+      "joy",
+      "laugh",
+      "lmao",
+      "lol",
+      "rofl",
+      "roflmao"
+    ],
+    "name": "Face with tears of joy",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f642.svg",
+    "id": "emoji-1f642",
+    "keywords": [
+      "face",
+      "happy",
+      "slightly",
+      "smile",
+      "smiling",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Slightly smiling face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f643.svg",
+    "id": "emoji-1f643",
+    "keywords": [
+      "face",
+      "hehe",
+      "smile",
+      "upside-down",
+      "emoji",
+      "smileys & emotion",
+      "smiling"
+    ],
+    "name": "Upside-down face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fae0.svg",
+    "id": "emoji-1fae0",
+    "keywords": [
+      "disappear",
+      "dissolve",
+      "embarrassed",
+      "face",
+      "haha",
+      "heat",
+      "hot",
+      "liquid",
+      "lol",
+      "melt",
+      "melting",
+      "sarcasm",
+      "sarcastic",
+      "emoji"
+    ],
+    "name": "Melting face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f609.svg",
+    "id": "emoji-1f609",
+    "keywords": [
+      "face",
+      "flirt",
+      "heartbreaker",
+      "sexy",
+      "slide",
+      "tease",
+      "wink",
+      "winking",
+      "winks",
+      "emoji",
+      "smileys & emotion",
+      "smiling"
+    ],
+    "name": "Winking face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f60a.svg",
+    "id": "emoji-1f60a",
+    "keywords": [
+      "blush",
+      "eye",
+      "eyes",
+      "face",
+      "glad",
+      "satisfied",
+      "smile",
+      "smiling",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Smiling face with smiling eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f607.svg",
+    "id": "emoji-1f607",
+    "keywords": [
+      "angel",
+      "angelic",
+      "angels",
+      "blessed",
+      "face",
+      "fairy",
+      "fairytale",
+      "fantasy",
+      "halo",
+      "happy",
+      "innocent",
+      "peaceful",
+      "smile",
+      "smiling"
+    ],
+    "name": "Smiling face with halo",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f970.svg",
+    "id": "emoji-1f970",
+    "keywords": [
+      "3",
+      "adore",
+      "crush",
+      "face",
+      "heart",
+      "hearts",
+      "ily",
+      "love",
+      "romance",
+      "smile",
+      "smiling",
+      "you",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Smiling face with hearts",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f60d.svg",
+    "id": "emoji-1f60d",
+    "keywords": [
+      "143",
+      "bae",
+      "eye",
+      "face",
+      "feels",
+      "heart-eyes",
+      "hearts",
+      "ily",
+      "kisses",
+      "love",
+      "romance",
+      "romantic",
+      "smile",
+      "xoxo"
+    ],
+    "name": "Smiling face with heart-eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f929.svg",
+    "id": "emoji-1f929",
+    "keywords": [
+      "excited",
+      "eyes",
+      "face",
+      "grinning",
+      "smile",
+      "star",
+      "starry-eyed",
+      "wow",
+      "emoji",
+      "smileys & emotion",
+      "affectionate"
+    ],
+    "name": "Star-struck",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f618.svg",
+    "id": "emoji-1f618",
+    "keywords": [
+      "adorbs",
+      "bae",
+      "blowing",
+      "face",
+      "flirt",
+      "heart",
+      "ily",
+      "kiss",
+      "love",
+      "lover",
+      "miss",
+      "muah",
+      "romantic",
+      "smooch"
+    ],
+    "name": "Face blowing a kiss",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f617.svg",
+    "id": "emoji-1f617",
+    "keywords": [
+      "143",
+      "date",
+      "dating",
+      "face",
+      "flirt",
+      "ily",
+      "kiss",
+      "love",
+      "smooch",
+      "smooches",
+      "xoxo",
+      "you",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Kissing face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/263a.svg",
+    "id": "emoji-263a",
+    "keywords": [
+      "face",
+      "happy",
+      "outlined",
+      "relaxed",
+      "smile",
+      "smiling",
+      "emoji",
+      "smileys & emotion",
+      "affectionate"
+    ],
+    "name": "Smiling face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f61a.svg",
+    "id": "emoji-1f61a",
+    "keywords": [
+      "143",
+      "bae",
+      "blush",
+      "closed",
+      "date",
+      "dating",
+      "eye",
+      "eyes",
+      "face",
+      "flirt",
+      "ily",
+      "kisses",
+      "kissing",
+      "smooches"
+    ],
+    "name": "Kissing face with closed eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f619.svg",
+    "id": "emoji-1f619",
+    "keywords": [
+      "143",
+      "closed",
+      "date",
+      "dating",
+      "eye",
+      "eyes",
+      "face",
+      "flirt",
+      "ily",
+      "kiss",
+      "kisses",
+      "kissing",
+      "love",
+      "night"
+    ],
+    "name": "Kissing face with smiling eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f972.svg",
+    "id": "emoji-1f972",
+    "keywords": [
+      "face",
+      "glad",
+      "grateful",
+      "happy",
+      "joy",
+      "pain",
+      "proud",
+      "relieved",
+      "smile",
+      "smiley",
+      "smiling",
+      "tear",
+      "touched",
+      "emoji"
+    ],
+    "name": "Smiling face with tear",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f60b.svg",
+    "id": "emoji-1f60b",
+    "keywords": [
+      "delicious",
+      "eat",
+      "face",
+      "food",
+      "full",
+      "hungry",
+      "savor",
+      "smile",
+      "smiling",
+      "tasty",
+      "um",
+      "yum",
+      "yummy",
+      "emoji"
+    ],
+    "name": "Face savoring food",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f61b.svg",
+    "id": "emoji-1f61b",
+    "keywords": [
+      "awesome",
+      "cool",
+      "face",
+      "nice",
+      "party",
+      "stuck-out",
+      "sweet",
+      "tongue",
+      "emoji",
+      "smileys & emotion",
+      "with tongue"
+    ],
+    "name": "Face with tongue",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f61c.svg",
+    "id": "emoji-1f61c",
+    "keywords": [
+      "crazy",
+      "epic",
+      "eye",
+      "face",
+      "funny",
+      "joke",
+      "loopy",
+      "nutty",
+      "party",
+      "stuck-out",
+      "tongue",
+      "wacky",
+      "weirdo",
+      "wink"
+    ],
+    "name": "Winking face with tongue",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f92a.svg",
+    "id": "emoji-1f92a",
+    "keywords": [
+      "crazy",
+      "eye",
+      "eyes",
+      "face",
+      "goofy",
+      "large",
+      "small",
+      "zany",
+      "emoji",
+      "smileys & emotion",
+      "with tongue"
+    ],
+    "name": "Zany face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f61d.svg",
+    "id": "emoji-1f61d",
+    "keywords": [
+      "closed",
+      "eye",
+      "eyes",
+      "face",
+      "gross",
+      "horrible",
+      "omg",
+      "squinting",
+      "stuck-out",
+      "taste",
+      "tongue",
+      "whatever",
+      "yolo",
+      "emoji"
+    ],
+    "name": "Squinting face with tongue",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f911.svg",
+    "id": "emoji-1f911",
+    "keywords": [
+      "face",
+      "money",
+      "money-mouth",
+      "mouth",
+      "paid",
+      "emoji",
+      "smileys & emotion",
+      "with tongue"
+    ],
+    "name": "Money-mouth face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f917.svg",
+    "id": "emoji-1f917",
+    "keywords": [
+      "face",
+      "hands",
+      "hug",
+      "hugging",
+      "open",
+      "smiling",
+      "emoji",
+      "smileys & emotion",
+      "with hands"
+    ],
+    "name": "Smiling face with open hands",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f92d.svg",
+    "id": "emoji-1f92d",
+    "keywords": [
+      "face",
+      "giggle",
+      "giggling",
+      "hand",
+      "mouth",
+      "oops",
+      "realization",
+      "secret",
+      "shock",
+      "sudden",
+      "surprise",
+      "whoops",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Face with hand over mouth",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fae2.svg",
+    "id": "emoji-1fae2",
+    "keywords": [
+      "amazement",
+      "awe",
+      "disbelief",
+      "embarrass",
+      "eyes",
+      "face",
+      "gasp",
+      "hand",
+      "mouth",
+      "omg",
+      "open",
+      "over",
+      "quiet",
+      "scared"
+    ],
+    "name": "Face with open eyes and hand over mouth",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fae3.svg",
+    "id": "emoji-1fae3",
+    "keywords": [
+      "captivated",
+      "embarrass",
+      "eye",
+      "face",
+      "hide",
+      "hiding",
+      "peek",
+      "peeking",
+      "peep",
+      "scared",
+      "shy",
+      "stare",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Face with peeking eye",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f92b.svg",
+    "id": "emoji-1f92b",
+    "keywords": [
+      "face",
+      "quiet",
+      "shh",
+      "shush",
+      "shushing",
+      "emoji",
+      "smileys & emotion",
+      "with hands"
+    ],
+    "name": "Shushing face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f914.svg",
+    "id": "emoji-1f914",
+    "keywords": [
+      "chin",
+      "consider",
+      "face",
+      "hmm",
+      "ponder",
+      "pondering",
+      "thinking",
+      "wondering",
+      "emoji",
+      "smileys & emotion",
+      "with hands"
+    ],
+    "name": "Thinking face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fae1.svg",
+    "id": "emoji-1fae1",
+    "keywords": [
+      "face",
+      "good",
+      "luck",
+      "ma'am",
+      "ok",
+      "respect",
+      "salute",
+      "saluting",
+      "sir",
+      "troops",
+      "yes",
+      "emoji",
+      "smileys & emotion",
+      "with hands"
+    ],
+    "name": "Saluting face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f910.svg",
+    "id": "emoji-1f910",
+    "keywords": [
+      "face",
+      "keep",
+      "mouth",
+      "quiet",
+      "secret",
+      "shut",
+      "zip",
+      "zipper",
+      "zipper-mouth",
+      "emoji",
+      "smileys & emotion",
+      "neutral / skeptical"
+    ],
+    "name": "Zipper-mouth face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f928.svg",
+    "id": "emoji-1f928",
+    "keywords": [
+      "disapproval",
+      "disbelief",
+      "distrust",
+      "emoji",
+      "eyebrow",
+      "face",
+      "hmm",
+      "mild",
+      "raised",
+      "skeptic",
+      "skeptical",
+      "skepticism",
+      "surprise",
+      "what"
+    ],
+    "name": "Face with raised eyebrow",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f610.svg",
+    "id": "emoji-1f610",
+    "keywords": [
+      "awkward",
+      "blank",
+      "deadpan",
+      "expressionless",
+      "face",
+      "fine",
+      "jealous",
+      "meh",
+      "neutral",
+      "oh",
+      "shade",
+      "straight",
+      "unamused",
+      "unhappy"
+    ],
+    "name": "Neutral face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f611.svg",
+    "id": "emoji-1f611",
+    "keywords": [
+      "awkward",
+      "dead",
+      "expressionless",
+      "face",
+      "fine",
+      "inexpressive",
+      "jealous",
+      "meh",
+      "not",
+      "oh",
+      "omg",
+      "straight",
+      "uh",
+      "unhappy"
+    ],
+    "name": "Expressionless face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f636.svg",
+    "id": "emoji-1f636",
+    "keywords": [
+      "awkward",
+      "blank",
+      "expressionless",
+      "face",
+      "mouth",
+      "mouthless",
+      "mute",
+      "quiet",
+      "secret",
+      "silence",
+      "silent",
+      "speechless",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Face without mouth",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fae5.svg",
+    "id": "emoji-1fae5",
+    "keywords": [
+      "depressed",
+      "disappear",
+      "dotted",
+      "face",
+      "hidden",
+      "hide",
+      "introvert",
+      "invisible",
+      "line",
+      "meh",
+      "whatever",
+      "wtv",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Dotted line face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f60f.svg",
+    "id": "emoji-1f60f",
+    "keywords": [
+      "boss",
+      "dapper",
+      "face",
+      "flirt",
+      "homie",
+      "kidding",
+      "leer",
+      "shade",
+      "slick",
+      "sly",
+      "smirk",
+      "smug",
+      "snicker",
+      "suave"
+    ],
+    "name": "Smirking face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f612.svg",
+    "id": "emoji-1f612",
+    "keywords": [
+      "...",
+      "bored",
+      "face",
+      "fine",
+      "jealous",
+      "jel",
+      "jelly",
+      "pissed",
+      "smh",
+      "ugh",
+      "uhh",
+      "unamused",
+      "unhappy",
+      "weird"
+    ],
+    "name": "Unamused face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f644.svg",
+    "id": "emoji-1f644",
+    "keywords": [
+      "eyeroll",
+      "eyes",
+      "face",
+      "rolling",
+      "shade",
+      "ugh",
+      "whatever",
+      "emoji",
+      "smileys & emotion",
+      "neutral / skeptical"
+    ],
+    "name": "Face with rolling eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f62c.svg",
+    "id": "emoji-1f62c",
+    "keywords": [
+      "awk",
+      "awkward",
+      "dentist",
+      "face",
+      "grimace",
+      "grimacing",
+      "grinning",
+      "smile",
+      "smiling",
+      "emoji",
+      "smileys & emotion",
+      "neutral / skeptical"
+    ],
+    "name": "Grimacing face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f925.svg",
+    "id": "emoji-1f925",
+    "keywords": [
+      "face",
+      "liar",
+      "lie",
+      "lying",
+      "pinocchio",
+      "emoji",
+      "smileys & emotion",
+      "neutral / skeptical"
+    ],
+    "name": "Lying face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fae8.svg",
+    "id": "emoji-1fae8",
+    "keywords": [
+      "crazy",
+      "daze",
+      "earthquake",
+      "face",
+      "omg",
+      "panic",
+      "shaking",
+      "shock",
+      "surprise",
+      "vibrate",
+      "whoa",
+      "wow",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Shaking face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f60c.svg",
+    "id": "emoji-1f60c",
+    "keywords": [
+      "calm",
+      "face",
+      "peace",
+      "relief",
+      "relieved",
+      "zen",
+      "emoji",
+      "smileys & emotion",
+      "sleepy"
+    ],
+    "name": "Relieved face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f614.svg",
+    "id": "emoji-1f614",
+    "keywords": [
+      "awful",
+      "bored",
+      "dejected",
+      "died",
+      "disappointed",
+      "face",
+      "losing",
+      "lost",
+      "pensive",
+      "sad",
+      "sucks",
+      "emoji",
+      "smileys & emotion",
+      "sleepy"
+    ],
+    "name": "Pensive face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f62a.svg",
+    "id": "emoji-1f62a",
+    "keywords": [
+      "crying",
+      "face",
+      "good",
+      "night",
+      "sad",
+      "sleep",
+      "sleeping",
+      "sleepy",
+      "tired",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Sleepy face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f924.svg",
+    "id": "emoji-1f924",
+    "keywords": ["drooling", "face", "emoji", "smileys & emotion", "sleepy"],
+    "name": "Drooling face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f634.svg",
+    "id": "emoji-1f634",
+    "keywords": [
+      "bed",
+      "bedtime",
+      "face",
+      "good",
+      "goodnight",
+      "nap",
+      "night",
+      "sleep",
+      "sleeping",
+      "tired",
+      "whatever",
+      "yawn",
+      "zzz",
+      "emoji"
+    ],
+    "name": "Sleeping face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f637.svg",
+    "id": "emoji-1f637",
+    "keywords": [
+      "cold",
+      "dentist",
+      "dermatologist",
+      "doctor",
+      "dr",
+      "face",
+      "germs",
+      "mask",
+      "medical",
+      "medicine",
+      "sick",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Face with medical mask",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f912.svg",
+    "id": "emoji-1f912",
+    "keywords": [
+      "face",
+      "ill",
+      "sick",
+      "thermometer",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Face with thermometer",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f915.svg",
+    "id": "emoji-1f915",
+    "keywords": [
+      "bandage",
+      "face",
+      "head-bandage",
+      "hurt",
+      "injury",
+      "ouch",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Face with head-bandage",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f922.svg",
+    "id": "emoji-1f922",
+    "keywords": [
+      "face",
+      "gross",
+      "nasty",
+      "nauseated",
+      "sick",
+      "vomit",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Nauseated face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f92e.svg",
+    "id": "emoji-1f92e",
+    "keywords": [
+      "barf",
+      "ew",
+      "face",
+      "gross",
+      "puke",
+      "sick",
+      "spew",
+      "throw",
+      "up",
+      "vomit",
+      "vomiting",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Face vomiting",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f927.svg",
+    "id": "emoji-1f927",
+    "keywords": [
+      "face",
+      "fever",
+      "flu",
+      "gesundheit",
+      "sick",
+      "sneeze",
+      "sneezing",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Sneezing face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f975.svg",
+    "id": "emoji-1f975",
+    "keywords": [
+      "dying",
+      "face",
+      "feverish",
+      "heat",
+      "hot",
+      "panting",
+      "red-faced",
+      "stroke",
+      "sweating",
+      "tongue",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Hot face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f976.svg",
+    "id": "emoji-1f976",
+    "keywords": [
+      "blue",
+      "blue-faced",
+      "cold",
+      "face",
+      "freezing",
+      "frostbite",
+      "icicles",
+      "subzero",
+      "teeth",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Cold face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f974.svg",
+    "id": "emoji-1f974",
+    "keywords": [
+      "dizzy",
+      "drunk",
+      "eyes",
+      "face",
+      "intoxicated",
+      "mouth",
+      "tipsy",
+      "uneven",
+      "wavy",
+      "woozy",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Woozy face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f635.svg",
+    "id": "emoji-1f635",
+    "keywords": [
+      "crossed-out",
+      "dead",
+      "dizzy",
+      "eyes",
+      "face",
+      "feels",
+      "knocked",
+      "out",
+      "sick",
+      "tired",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Face with crossed-out eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f92f.svg",
+    "id": "emoji-1f92f",
+    "keywords": [
+      "blown",
+      "explode",
+      "exploding",
+      "head",
+      "mind",
+      "mindblown",
+      "no",
+      "shocked",
+      "way",
+      "emoji",
+      "smileys & emotion",
+      "unwell"
+    ],
+    "name": "Exploding head",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f920.svg",
+    "id": "emoji-1f920",
+    "keywords": [
+      "cowboy",
+      "cowgirl",
+      "face",
+      "hat",
+      "emoji",
+      "smileys & emotion",
+      "with hats"
+    ],
+    "name": "Cowboy hat face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f973.svg",
+    "id": "emoji-1f973",
+    "keywords": [
+      "bday",
+      "birthday",
+      "celebrate",
+      "celebration",
+      "excited",
+      "face",
+      "happy",
+      "hat",
+      "hooray",
+      "horn",
+      "party",
+      "partying",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Partying face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f978.svg",
+    "id": "emoji-1f978",
+    "keywords": [
+      "disguise",
+      "eyebrow",
+      "face",
+      "glasses",
+      "incognito",
+      "moustache",
+      "mustache",
+      "nose",
+      "person",
+      "spy",
+      "tache",
+      "tash",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Disguised face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f60e.svg",
+    "id": "emoji-1f60e",
+    "keywords": [
+      "awesome",
+      "beach",
+      "bright",
+      "bro",
+      "chilling",
+      "cool",
+      "face",
+      "rad",
+      "relaxed",
+      "shades",
+      "slay",
+      "smile",
+      "style",
+      "sunglasses"
+    ],
+    "name": "Smiling face with sunglasses",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f913.svg",
+    "id": "emoji-1f913",
+    "keywords": [
+      "brainy",
+      "clever",
+      "expert",
+      "face",
+      "geek",
+      "gifted",
+      "glasses",
+      "intelligent",
+      "nerd",
+      "smart",
+      "emoji",
+      "smileys & emotion",
+      "with glasses"
+    ],
+    "name": "Nerd face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9d0.svg",
+    "id": "emoji-1f9d0",
+    "keywords": [
+      "classy",
+      "face",
+      "fancy",
+      "monocle",
+      "rich",
+      "stuffy",
+      "wealthy",
+      "emoji",
+      "smileys & emotion",
+      "with glasses"
+    ],
+    "name": "Face with monocle",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f44b.svg",
+    "id": "emoji-1f44b",
+    "keywords": [
+      "bye",
+      "cya",
+      "g2g",
+      "greetings",
+      "gtg",
+      "hand",
+      "hello",
+      "hey",
+      "hi",
+      "later",
+      "outtie",
+      "ttfn",
+      "ttyl",
+      "wave"
+    ],
+    "name": "Waving hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f91a.svg",
+    "id": "emoji-1f91a",
+    "keywords": [
+      "back",
+      "backhand",
+      "hand",
+      "raised",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Raised back of hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f590.svg",
+    "id": "emoji-1f590",
+    "keywords": [
+      "finger",
+      "fingers",
+      "hand",
+      "raised",
+      "splayed",
+      "stop",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Hand with fingers splayed",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/270b.svg",
+    "id": "emoji-270b",
+    "keywords": [
+      "5",
+      "five",
+      "hand",
+      "high",
+      "raised",
+      "stop",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Raised hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f596.svg",
+    "id": "emoji-1f596",
+    "keywords": [
+      "finger",
+      "hand",
+      "hands",
+      "salute",
+      "vulcan",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Vulcan salute",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1faf1.svg",
+    "id": "emoji-1faf1",
+    "keywords": [
+      "hand",
+      "handshake",
+      "hold",
+      "reach",
+      "right",
+      "rightward",
+      "rightwards",
+      "shake",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Rightwards hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1faf2.svg",
+    "id": "emoji-1faf2",
+    "keywords": [
+      "hand",
+      "handshake",
+      "hold",
+      "left",
+      "leftward",
+      "leftwards",
+      "reach",
+      "shake",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Leftwards hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1faf3.svg",
+    "id": "emoji-1faf3",
+    "keywords": [
+      "dismiss",
+      "down",
+      "drop",
+      "dropped",
+      "hand",
+      "palm",
+      "pick",
+      "shoo",
+      "up",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Palm down hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1faf4.svg",
+    "id": "emoji-1faf4",
+    "keywords": [
+      "beckon",
+      "catch",
+      "come",
+      "hand",
+      "hold",
+      "know",
+      "lift",
+      "me",
+      "offer",
+      "palm",
+      "tell",
+      "emoji",
+      "people & body",
+      "fingers open"
+    ],
+    "name": "Palm up hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1faf7.svg",
+    "id": "emoji-1faf7",
+    "keywords": [
+      "block",
+      "five",
+      "halt",
+      "hand",
+      "high",
+      "hold",
+      "leftward",
+      "leftwards",
+      "pause",
+      "push",
+      "pushing",
+      "refuse",
+      "slap",
+      "stop"
+    ],
+    "name": "Leftwards pushing hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1faf8.svg",
+    "id": "emoji-1faf8",
+    "keywords": [
+      "block",
+      "five",
+      "halt",
+      "hand",
+      "high",
+      "hold",
+      "pause",
+      "push",
+      "pushing",
+      "refuse",
+      "rightward",
+      "rightwards",
+      "slap",
+      "stop"
+    ],
+    "name": "Rightwards pushing hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f44c.svg",
+    "id": "emoji-1f44c",
+    "keywords": [
+      "awesome",
+      "bet",
+      "dope",
+      "fleek",
+      "fosho",
+      "got",
+      "gotcha",
+      "hand",
+      "legit",
+      "ok",
+      "okay",
+      "pinch",
+      "rad",
+      "sure"
+    ],
+    "name": "OK hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f90c.svg",
+    "id": "emoji-1f90c",
+    "keywords": [
+      "fingers",
+      "gesture",
+      "hand",
+      "hold",
+      "huh",
+      "interrogation",
+      "patience",
+      "pinched",
+      "relax",
+      "sarcastic",
+      "ugh",
+      "what",
+      "zip",
+      "emoji"
+    ],
+    "name": "Pinched fingers",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f90f.svg",
+    "id": "emoji-1f90f",
+    "keywords": [
+      "amount",
+      "bit",
+      "fingers",
+      "hand",
+      "little",
+      "pinching",
+      "small",
+      "sort",
+      "emoji",
+      "people & body",
+      "hand signs"
+    ],
+    "name": "Pinching hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/270c.svg",
+    "id": "emoji-270c",
+    "keywords": [
+      "hand",
+      "peace",
+      "v",
+      "victory",
+      "emoji",
+      "people & body",
+      "hand signs"
+    ],
+    "name": "Victory hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f91e.svg",
+    "id": "emoji-1f91e",
+    "keywords": [
+      "cross",
+      "crossed",
+      "finger",
+      "fingers",
+      "hand",
+      "luck",
+      "emoji",
+      "people & body",
+      "hand signs"
+    ],
+    "name": "Crossed fingers",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1faf0.svg",
+    "id": "emoji-1faf0",
+    "keywords": [
+      "<3",
+      "crossed",
+      "expensive",
+      "finger",
+      "hand",
+      "heart",
+      "index",
+      "love",
+      "money",
+      "snap",
+      "thumb",
+      "emoji",
+      "people & body",
+      "hand signs"
+    ],
+    "name": "Hand with index finger and thumb crossed",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f91f.svg",
+    "id": "emoji-1f91f",
+    "keywords": [
+      "fingers",
+      "gesture",
+      "hand",
+      "ily",
+      "love",
+      "love-you",
+      "three",
+      "you",
+      "emoji",
+      "people & body",
+      "hand signs"
+    ],
+    "name": "Love-you gesture",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f918.svg",
+    "id": "emoji-1f918",
+    "keywords": [
+      "finger",
+      "hand",
+      "horns",
+      "rock-on",
+      "sign",
+      "emoji",
+      "people & body",
+      "hand signs"
+    ],
+    "name": "Sign of the horns",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f919.svg",
+    "id": "emoji-1f919",
+    "keywords": [
+      "call",
+      "hand",
+      "hang",
+      "loose",
+      "me",
+      "shaka",
+      "emoji",
+      "people & body",
+      "hand signs"
+    ],
+    "name": "Call me hand",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f448.svg",
+    "id": "emoji-1f448",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "left",
+      "point",
+      "pointing",
+      "emoji",
+      "people & body",
+      "finger pointing"
+    ],
+    "name": "Backhand index pointing left",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f449.svg",
+    "id": "emoji-1f449",
+    "keywords": [
+      "backhand",
+      "finger",
+      "hand",
+      "index",
+      "point",
+      "pointing",
+      "right",
+      "emoji",
+      "people & body",
+      "finger pointing"
+    ],
+    "name": "Backhand index pointing right",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f435.svg",
+    "id": "emoji-1f435",
+    "keywords": [
+      "animal",
+      "banana",
+      "face",
+      "monkey",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Monkey face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f412.svg",
+    "id": "emoji-1f412",
+    "keywords": ["animal", "banana", "emoji", "animals & nature", "mammals"],
+    "name": "Monkey",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f98d.svg",
+    "id": "emoji-1f98d",
+    "keywords": ["animal", "emoji", "animals & nature", "mammals"],
+    "name": "Gorilla",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9a7.svg",
+    "id": "emoji-1f9a7",
+    "keywords": [
+      "animal",
+      "ape",
+      "monkey",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Orangutan",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f436.svg",
+    "id": "emoji-1f436",
+    "keywords": [
+      "adorbs",
+      "animal",
+      "dog",
+      "face",
+      "pet",
+      "puppies",
+      "puppy",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Dog face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f415.svg",
+    "id": "emoji-1f415",
+    "keywords": [
+      "animal",
+      "animals",
+      "dogs",
+      "pet",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Dog",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9ae.svg",
+    "id": "emoji-1f9ae",
+    "keywords": [
+      "accessibility",
+      "animal",
+      "blind",
+      "dog",
+      "guide",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Guide dog",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f429.svg",
+    "id": "emoji-1f429",
+    "keywords": [
+      "animal",
+      "dog",
+      "fluffy",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Poodle",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f43a.svg",
+    "id": "emoji-1f43a",
+    "keywords": ["animal", "face", "emoji", "animals & nature", "mammals"],
+    "name": "Wolf",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f98a.svg",
+    "id": "emoji-1f98a",
+    "keywords": ["animal", "face", "emoji", "animals & nature", "mammals"],
+    "name": "Fox",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f99d.svg",
+    "id": "emoji-1f99d",
+    "keywords": [
+      "animal",
+      "curious",
+      "sly",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Raccoon",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f431.svg",
+    "id": "emoji-1f431",
+    "keywords": [
+      "animal",
+      "cat",
+      "face",
+      "kitten",
+      "kitty",
+      "pet",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Cat face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f408.svg",
+    "id": "emoji-1f408",
+    "keywords": [
+      "animal",
+      "animals",
+      "cats",
+      "kitten",
+      "pet",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Cat",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f981.svg",
+    "id": "emoji-1f981",
+    "keywords": [
+      "alpha",
+      "animal",
+      "face",
+      "leo",
+      "mane",
+      "order",
+      "rawr",
+      "roar",
+      "safari",
+      "strong",
+      "zodiac",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Lion",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f42f.svg",
+    "id": "emoji-1f42f",
+    "keywords": [
+      "animal",
+      "big",
+      "cat",
+      "face",
+      "predator",
+      "tiger",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Tiger face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f405.svg",
+    "id": "emoji-1f405",
+    "keywords": [
+      "animal",
+      "big",
+      "cat",
+      "predator",
+      "zoo",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Tiger",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f406.svg",
+    "id": "emoji-1f406",
+    "keywords": [
+      "animal",
+      "big",
+      "cat",
+      "predator",
+      "zoo",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Leopard",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f434.svg",
+    "id": "emoji-1f434",
+    "keywords": [
+      "animal",
+      "dressage",
+      "equine",
+      "face",
+      "farm",
+      "horse",
+      "horses",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Horse face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1face.svg",
+    "id": "emoji-1face",
+    "keywords": [
+      "alces",
+      "animal",
+      "antlers",
+      "elk",
+      "mammal",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Moose",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1facf.svg",
+    "id": "emoji-1facf",
+    "keywords": [
+      "animal",
+      "ass",
+      "burro",
+      "hinny",
+      "mammal",
+      "mule",
+      "stubborn",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Donkey",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f40e.svg",
+    "id": "emoji-1f40e",
+    "keywords": [
+      "animal",
+      "equestrian",
+      "farm",
+      "racehorse",
+      "racing",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Horse",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f984.svg",
+    "id": "emoji-1f984",
+    "keywords": ["face", "emoji", "animals & nature", "mammals"],
+    "name": "Unicorn",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f993.svg",
+    "id": "emoji-1f993",
+    "keywords": ["animal", "stripe", "emoji", "animals & nature", "mammals"],
+    "name": "Zebra",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f98c.svg",
+    "id": "emoji-1f98c",
+    "keywords": ["animal", "emoji", "animals & nature", "mammals"],
+    "name": "Deer",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9ac.svg",
+    "id": "emoji-1f9ac",
+    "keywords": [
+      "animal",
+      "buffalo",
+      "herd",
+      "wisent",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Bison",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f42e.svg",
+    "id": "emoji-1f42e",
+    "keywords": [
+      "animal",
+      "cow",
+      "face",
+      "farm",
+      "milk",
+      "moo",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Cow face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f402.svg",
+    "id": "emoji-1f402",
+    "keywords": [
+      "animal",
+      "animals",
+      "bull",
+      "farm",
+      "taurus",
+      "zodiac",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Ox",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f403.svg",
+    "id": "emoji-1f403",
+    "keywords": [
+      "animal",
+      "buffalo",
+      "water",
+      "zoo",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Water buffalo",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f404.svg",
+    "id": "emoji-1f404",
+    "keywords": [
+      "animal",
+      "animals",
+      "farm",
+      "milk",
+      "moo",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Cow",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f437.svg",
+    "id": "emoji-1f437",
+    "keywords": [
+      "animal",
+      "bacon",
+      "face",
+      "farm",
+      "pig",
+      "pork",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Pig face",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f416.svg",
+    "id": "emoji-1f416",
+    "keywords": [
+      "animal",
+      "bacon",
+      "farm",
+      "pork",
+      "sow",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Pig",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f417.svg",
+    "id": "emoji-1f417",
+    "keywords": ["animal", "pig", "emoji", "animals & nature", "mammals"],
+    "name": "Boar",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f43d.svg",
+    "id": "emoji-1f43d",
+    "keywords": [
+      "animal",
+      "face",
+      "farm",
+      "nose",
+      "pig",
+      "smell",
+      "snout",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Pig nose",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f40f.svg",
+    "id": "emoji-1f40f",
+    "keywords": [
+      "animal",
+      "aries",
+      "horns",
+      "male",
+      "sheep",
+      "zodiac",
+      "zoo",
+      "emoji",
+      "animals & nature",
+      "mammals"
+    ],
+    "name": "Ram",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f347.svg",
+    "id": "emoji-1f347",
+    "keywords": ["dionysus", "fruit", "grape", "emoji", "food & drink"],
+    "name": "Grapes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f348.svg",
+    "id": "emoji-1f348",
+    "keywords": ["cantaloupe", "fruit", "emoji", "food & drink"],
+    "name": "Melon",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f349.svg",
+    "id": "emoji-1f349",
+    "keywords": ["fruit", "emoji", "food & drink"],
+    "name": "Watermelon",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f34a.svg",
+    "id": "emoji-1f34a",
+    "keywords": [
+      "c",
+      "citrus",
+      "fruit",
+      "nectarine",
+      "orange",
+      "vitamin",
+      "emoji",
+      "food & drink"
+    ],
+    "name": "Tangerine",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f34b.svg",
+    "id": "emoji-1f34b",
+    "keywords": ["citrus", "fruit", "sour", "emoji", "food & drink"],
+    "name": "Lemon",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f34c.svg",
+    "id": "emoji-1f34c",
+    "keywords": ["fruit", "potassium", "emoji", "food & drink"],
+    "name": "Banana",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f34d.svg",
+    "id": "emoji-1f34d",
+    "keywords": [
+      "colada",
+      "fruit",
+      "pina",
+      "tropical",
+      "emoji",
+      "food & drink"
+    ],
+    "name": "Pineapple",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f96d.svg",
+    "id": "emoji-1f96d",
+    "keywords": ["food", "fruit", "tropical", "emoji", "food & drink"],
+    "name": "Mango",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f34e.svg",
+    "id": "emoji-1f34e",
+    "keywords": [
+      "apple",
+      "diet",
+      "food",
+      "fruit",
+      "health",
+      "red",
+      "ripe",
+      "emoji",
+      "food & drink"
+    ],
+    "name": "Red apple",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f34f.svg",
+    "id": "emoji-1f34f",
+    "keywords": ["apple", "fruit", "green", "emoji", "food & drink"],
+    "name": "Green apple",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f350.svg",
+    "id": "emoji-1f350",
+    "keywords": ["fruit", "emoji", "food & drink"],
+    "name": "Pear",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f351.svg",
+    "id": "emoji-1f351",
+    "keywords": ["fruit", "emoji", "food & drink"],
+    "name": "Peach",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f352.svg",
+    "id": "emoji-1f352",
+    "keywords": ["berries", "cherry", "fruit", "red", "emoji", "food & drink"],
+    "name": "Cherries",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f353.svg",
+    "id": "emoji-1f353",
+    "keywords": ["berry", "fruit", "emoji", "food & drink"],
+    "name": "Strawberry",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fad0.svg",
+    "id": "emoji-1fad0",
+    "keywords": [
+      "berries",
+      "berry",
+      "bilberry",
+      "blue",
+      "blueberry",
+      "food",
+      "fruit",
+      "emoji",
+      "food & drink"
+    ],
+    "name": "Blueberries",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f95d.svg",
+    "id": "emoji-1f95d",
+    "keywords": ["food", "fruit", "kiwi", "emoji", "food & drink"],
+    "name": "Kiwi fruit",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f345.svg",
+    "id": "emoji-1f345",
+    "keywords": ["food", "fruit", "vegetable", "emoji", "food & drink"],
+    "name": "Tomato",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fad2.svg",
+    "id": "emoji-1fad2",
+    "keywords": ["food", "emoji", "food & drink", "fruit"],
+    "name": "Olive",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f965.svg",
+    "id": "emoji-1f965",
+    "keywords": ["colada", "palm", "piña", "emoji", "food & drink", "fruit"],
+    "name": "Coconut",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f951.svg",
+    "id": "emoji-1f951",
+    "keywords": ["food", "fruit", "emoji", "food & drink", "vegetables"],
+    "name": "Avocado",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f346.svg",
+    "id": "emoji-1f346",
+    "keywords": [
+      "aubergine",
+      "vegetable",
+      "emoji",
+      "food & drink",
+      "vegetables"
+    ],
+    "name": "Eggplant",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f954.svg",
+    "id": "emoji-1f954",
+    "keywords": ["food", "vegetable", "emoji", "food & drink", "vegetables"],
+    "name": "Potato",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f955.svg",
+    "id": "emoji-1f955",
+    "keywords": ["food", "vegetable", "emoji", "food & drink", "vegetables"],
+    "name": "Carrot",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f33d.svg",
+    "id": "emoji-1f33d",
+    "keywords": [
+      "corn",
+      "crops",
+      "ear",
+      "farm",
+      "maize",
+      "maze",
+      "emoji",
+      "food & drink",
+      "vegetables"
+    ],
+    "name": "Ear of corn",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f336.svg",
+    "id": "emoji-1f336",
+    "keywords": ["hot", "pepper", "emoji", "food & drink", "vegetables"],
+    "name": "Hot pepper",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fad1.svg",
+    "id": "emoji-1fad1",
+    "keywords": [
+      "bell",
+      "capsicum",
+      "food",
+      "pepper",
+      "vegetable",
+      "emoji",
+      "food & drink",
+      "vegetables"
+    ],
+    "name": "Bell pepper",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f30d.svg",
+    "id": "emoji-1f30d",
+    "keywords": [
+      "africa",
+      "earth",
+      "europe",
+      "europe-africa",
+      "globe",
+      "showing",
+      "world",
+      "emoji",
+      "travel & places",
+      "globes & maps"
+    ],
+    "name": "Globe showing Europe-Africa",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f30e.svg",
+    "id": "emoji-1f30e",
+    "keywords": [
+      "americas",
+      "earth",
+      "globe",
+      "showing",
+      "world",
+      "emoji",
+      "travel & places",
+      "globes & maps"
+    ],
+    "name": "Globe showing Americas",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f30f.svg",
+    "id": "emoji-1f30f",
+    "keywords": [
+      "asia",
+      "asia-australia",
+      "australia",
+      "earth",
+      "globe",
+      "showing",
+      "world",
+      "emoji",
+      "travel & places",
+      "globes & maps"
+    ],
+    "name": "Globe showing Asia-Australia",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f310.svg",
+    "id": "emoji-1f310",
+    "keywords": [
+      "earth",
+      "globe",
+      "internet",
+      "meridians",
+      "web",
+      "world",
+      "worldwide",
+      "emoji",
+      "travel & places",
+      "globes & maps"
+    ],
+    "name": "Globe with meridians",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f5fa.svg",
+    "id": "emoji-1f5fa",
+    "keywords": ["map", "world", "emoji", "travel & places", "globes & maps"],
+    "name": "World map",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f5fe.svg",
+    "id": "emoji-1f5fe",
+    "keywords": ["japan", "map", "emoji", "travel & places", "globes & maps"],
+    "name": "Map of Japan",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9ed.svg",
+    "id": "emoji-1f9ed",
+    "keywords": [
+      "direction",
+      "magnetic",
+      "navigation",
+      "orienteering",
+      "emoji",
+      "travel & places",
+      "globes & maps"
+    ],
+    "name": "Compass",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3d4.svg",
+    "id": "emoji-1f3d4",
+    "keywords": [
+      "cold",
+      "mountain",
+      "snow",
+      "snow-capped",
+      "emoji",
+      "travel & places",
+      "geographic locations"
+    ],
+    "name": "Snow-capped mountain",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/26f0.svg",
+    "id": "emoji-26f0",
+    "keywords": [
+      "mountain",
+      "emoji",
+      "travel & places",
+      "geographic locations"
+    ],
+    "name": "Mountain",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f5fb.svg",
+    "id": "emoji-1f5fb",
+    "keywords": [
+      "fuji",
+      "mount",
+      "mountain",
+      "nature",
+      "emoji",
+      "travel & places",
+      "geographic locations"
+    ],
+    "name": "Mount fuji",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3d5.svg",
+    "id": "emoji-1f3d5",
+    "keywords": ["camping", "emoji", "travel & places", "geographic locations"],
+    "name": "Camping",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3d6.svg",
+    "id": "emoji-1f3d6",
+    "keywords": [
+      "beach",
+      "umbrella",
+      "emoji",
+      "travel & places",
+      "geographic locations"
+    ],
+    "name": "Beach with umbrella",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3dc.svg",
+    "id": "emoji-1f3dc",
+    "keywords": ["desert", "emoji", "travel & places", "geographic locations"],
+    "name": "Desert",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3dd.svg",
+    "id": "emoji-1f3dd",
+    "keywords": [
+      "desert",
+      "island",
+      "emoji",
+      "travel & places",
+      "geographic locations"
+    ],
+    "name": "Desert island",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3de.svg",
+    "id": "emoji-1f3de",
+    "keywords": [
+      "national",
+      "park",
+      "emoji",
+      "travel & places",
+      "geographic locations"
+    ],
+    "name": "National park",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3df.svg",
+    "id": "emoji-1f3df",
+    "keywords": ["stadium", "emoji", "travel & places", "buildings"],
+    "name": "Stadium",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f383.svg",
+    "id": "emoji-1f383",
+    "keywords": [
+      "celebration",
+      "halloween",
+      "jack",
+      "lantern",
+      "pumpkin",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Jack-o-lantern",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f384.svg",
+    "id": "emoji-1f384",
+    "keywords": [
+      "celebration",
+      "christmas",
+      "tree",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Christmas tree",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f386.svg",
+    "id": "emoji-1f386",
+    "keywords": [
+      "boom",
+      "celebration",
+      "entertainment",
+      "yolo",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Fireworks",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f387.svg",
+    "id": "emoji-1f387",
+    "keywords": [
+      "boom",
+      "celebration",
+      "fireworks",
+      "sparkle",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Sparkler",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9e8.svg",
+    "id": "emoji-1f9e8",
+    "keywords": [
+      "dynamite",
+      "explosive",
+      "fire",
+      "fireworks",
+      "light",
+      "pop",
+      "popping",
+      "spark",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Firecracker",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2728.svg",
+    "id": "emoji-2728",
+    "keywords": [
+      "*",
+      "magic",
+      "sparkle",
+      "star",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Sparkles",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f388.svg",
+    "id": "emoji-1f388",
+    "keywords": [
+      "birthday",
+      "celebrate",
+      "celebration",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Balloon",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f389.svg",
+    "id": "emoji-1f389",
+    "keywords": [
+      "awesome",
+      "birthday",
+      "celebrate",
+      "celebration",
+      "excited",
+      "hooray",
+      "party",
+      "popper",
+      "tada",
+      "woohoo",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Party popper",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f38a.svg",
+    "id": "emoji-1f38a",
+    "keywords": [
+      "ball",
+      "celebrate",
+      "celebration",
+      "confetti",
+      "party",
+      "woohoo",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Confetti ball",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f38b.svg",
+    "id": "emoji-1f38b",
+    "keywords": [
+      "banner",
+      "celebration",
+      "japanese",
+      "tanabata",
+      "tree",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Tanabata tree",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f38d.svg",
+    "id": "emoji-1f38d",
+    "keywords": [
+      "bamboo",
+      "celebration",
+      "decoration",
+      "japanese",
+      "pine",
+      "plant",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Pine decoration",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f38e.svg",
+    "id": "emoji-1f38e",
+    "keywords": [
+      "celebration",
+      "doll",
+      "dolls",
+      "festival",
+      "japanese",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Japanese dolls",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f38f.svg",
+    "id": "emoji-1f38f",
+    "keywords": [
+      "carp",
+      "celebration",
+      "streamer",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Carp streamer",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f390.svg",
+    "id": "emoji-1f390",
+    "keywords": [
+      "bell",
+      "celebration",
+      "chime",
+      "wind",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Wind chime",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f391.svg",
+    "id": "emoji-1f391",
+    "keywords": [
+      "celebration",
+      "ceremony",
+      "moon",
+      "viewing",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Moon viewing ceremony",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9e7.svg",
+    "id": "emoji-1f9e7",
+    "keywords": [
+      "envelope",
+      "gift",
+      "good",
+      "hóngbāo",
+      "lai",
+      "luck",
+      "money",
+      "red",
+      "see",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Red envelope",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f380.svg",
+    "id": "emoji-1f380",
+    "keywords": ["celebration", "emoji", "activities", "events & holidays"],
+    "name": "Ribbon",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f381.svg",
+    "id": "emoji-1f381",
+    "keywords": [
+      "birthday",
+      "bow",
+      "box",
+      "celebration",
+      "christmas",
+      "gift",
+      "present",
+      "surprise",
+      "wrapped",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Wrapped gift",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f397.svg",
+    "id": "emoji-1f397",
+    "keywords": [
+      "celebration",
+      "reminder",
+      "ribbon",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Reminder ribbon",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f39f.svg",
+    "id": "emoji-1f39f",
+    "keywords": [
+      "admission",
+      "ticket",
+      "tickets",
+      "emoji",
+      "activities",
+      "events & holidays"
+    ],
+    "name": "Admission tickets",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2764.svg",
+    "id": "emoji-2764",
+    "keywords": [
+      "emotion",
+      "heart",
+      "love",
+      "red",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Red heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9e1.svg",
+    "id": "emoji-1f9e1",
+    "keywords": [
+      "143",
+      "heart",
+      "orange",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Orange heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f49b.svg",
+    "id": "emoji-1f49b",
+    "keywords": [
+      "143",
+      "cardiac",
+      "emotion",
+      "heart",
+      "ily",
+      "love",
+      "yellow",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Yellow heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f49a.svg",
+    "id": "emoji-1f49a",
+    "keywords": [
+      "143",
+      "emotion",
+      "green",
+      "heart",
+      "ily",
+      "love",
+      "romantic",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Green heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f499.svg",
+    "id": "emoji-1f499",
+    "keywords": [
+      "143",
+      "blue",
+      "emotion",
+      "heart",
+      "ily",
+      "love",
+      "romance",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Blue heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f49c.svg",
+    "id": "emoji-1f49c",
+    "keywords": [
+      "143",
+      "bestest",
+      "emotion",
+      "heart",
+      "ily",
+      "love",
+      "purple",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Purple heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f5a4.svg",
+    "id": "emoji-1f5a4",
+    "keywords": [
+      "black",
+      "evil",
+      "heart",
+      "wicked",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Black heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f494.svg",
+    "id": "emoji-1f494",
+    "keywords": [
+      "break",
+      "broken",
+      "crushed",
+      "emotion",
+      "heart",
+      "heartbroken",
+      "lonely",
+      "sad",
+      "emoji",
+      "smileys & emotion",
+      "hearts"
+    ],
+    "name": "Broken heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f496.svg",
+    "id": "emoji-1f496",
+    "keywords": [
+      "143",
+      "emotion",
+      "excited",
+      "good",
+      "heart",
+      "ily",
+      "kisses",
+      "morning",
+      "night",
+      "sparkle",
+      "sparkling",
+      "xoxo",
+      "emoji",
+      "smileys & emotion"
+    ],
+    "name": "Sparkling heart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f495.svg",
+    "id": "emoji-1f495",
+    "keywords": [
+      "143",
+      "anniversary",
+      "date",
+      "dating",
+      "emotion",
+      "heart",
+      "hearts",
+      "ily",
+      "kisses",
+      "love",
+      "loving",
+      "two",
+      "xoxo",
+      "emoji"
+    ],
+    "name": "Two hearts",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4af.svg",
+    "id": "emoji-1f4af",
+    "keywords": [
+      "100",
+      "a+",
+      "agree",
+      "clearly",
+      "definitely",
+      "faithful",
+      "fleek",
+      "full",
+      "hundred",
+      "keep",
+      "perfect",
+      "point",
+      "score",
+      "true"
+    ],
+    "name": "Hundred points",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4a5.svg",
+    "id": "emoji-1f4a5",
+    "keywords": [
+      "bomb",
+      "boom",
+      "collide",
+      "comic",
+      "explode",
+      "emoji",
+      "smileys & emotion",
+      "emotions"
+    ],
+    "name": "Collision",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f525.svg",
+    "id": "emoji-1f525",
+    "keywords": [
+      "af",
+      "burn",
+      "flame",
+      "hot",
+      "lit",
+      "litaf",
+      "tool",
+      "emoji",
+      "travel & places",
+      "weather"
+    ],
+    "name": "Fire",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f44d.svg",
+    "id": "emoji-1f44d",
+    "keywords": [
+      "+1",
+      "good",
+      "hand",
+      "like",
+      "thumb",
+      "up",
+      "yes",
+      "emoji",
+      "people & body",
+      "fingers closed"
+    ],
+    "name": "Thumbs up",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f44e.svg",
+    "id": "emoji-1f44e",
+    "keywords": [
+      "-1",
+      "bad",
+      "dislike",
+      "down",
+      "good",
+      "hand",
+      "no",
+      "nope",
+      "thumb",
+      "thumbs",
+      "emoji",
+      "people & body",
+      "fingers closed"
+    ],
+    "name": "Thumbs down",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f44f.svg",
+    "id": "emoji-1f44f",
+    "keywords": [
+      "applause",
+      "approval",
+      "awesome",
+      "clap",
+      "congrats",
+      "congratulations",
+      "excited",
+      "good",
+      "great",
+      "hand",
+      "homie",
+      "job",
+      "nice",
+      "prayed"
+    ],
+    "name": "Clapping hands",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f64c.svg",
+    "id": "emoji-1f64c",
+    "keywords": [
+      "celebration",
+      "gesture",
+      "hand",
+      "hands",
+      "hooray",
+      "praise",
+      "raised",
+      "raising",
+      "emoji",
+      "people & body"
+    ],
+    "name": "Raising hands",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f64f.svg",
+    "id": "emoji-1f64f",
+    "keywords": [
+      "appreciate",
+      "ask",
+      "beg",
+      "blessed",
+      "bow",
+      "cmon",
+      "five",
+      "folded",
+      "gesture",
+      "hand",
+      "high",
+      "please",
+      "pray",
+      "thanks"
+    ],
+    "name": "Folded hands",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4aa.svg",
+    "id": "emoji-1f4aa",
+    "keywords": [
+      "arm",
+      "beast",
+      "bench",
+      "biceps",
+      "bodybuilder",
+      "bro",
+      "curls",
+      "flex",
+      "gains",
+      "gym",
+      "jacked",
+      "muscle",
+      "press",
+      "ripped"
+    ],
+    "name": "Flexed biceps",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f440.svg",
+    "id": "emoji-1f440",
+    "keywords": [
+      "body",
+      "eye",
+      "face",
+      "googly",
+      "look",
+      "looking",
+      "omg",
+      "peep",
+      "see",
+      "seeing",
+      "emoji",
+      "people & body",
+      "body parts"
+    ],
+    "name": "Eyes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f680.svg",
+    "id": "emoji-1f680",
+    "keywords": [
+      "launch",
+      "rockets",
+      "space",
+      "travel",
+      "emoji",
+      "travel & places",
+      "air transportation"
+    ],
+    "name": "Rocket",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2b50.svg",
+    "id": "emoji-2b50",
+    "keywords": [
+      "astronomy",
+      "medium",
+      "stars",
+      "white",
+      "emoji",
+      "travel & places",
+      "weather"
+    ],
+    "name": "Star",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f31f.svg",
+    "id": "emoji-1f31f",
+    "keywords": [
+      "glittery",
+      "glow",
+      "glowing",
+      "night",
+      "shining",
+      "sparkle",
+      "star",
+      "win",
+      "emoji",
+      "travel & places",
+      "weather"
+    ],
+    "name": "Glowing star",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2600.svg",
+    "id": "emoji-2600",
+    "keywords": [
+      "bright",
+      "rays",
+      "space",
+      "sunny",
+      "weather",
+      "emoji",
+      "travel & places"
+    ],
+    "name": "Sun",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f308.svg",
+    "id": "emoji-1f308",
+    "keywords": [
+      "gay",
+      "genderqueer",
+      "glbt",
+      "glbtq",
+      "lesbian",
+      "lgbt",
+      "lgbtq",
+      "lgbtqia",
+      "nature",
+      "pride",
+      "queer",
+      "rain",
+      "trans",
+      "transgender"
+    ],
+    "name": "Rainbow",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2744.svg",
+    "id": "emoji-2744",
+    "keywords": ["cold", "snow", "weather", "emoji", "travel & places"],
+    "name": "Snowflake",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/26a1.svg",
+    "id": "emoji-26a1",
+    "keywords": [
+      "danger",
+      "electric",
+      "electricity",
+      "high",
+      "lightning",
+      "nature",
+      "thunder",
+      "thunderbolt",
+      "voltage",
+      "zap",
+      "emoji",
+      "travel & places",
+      "weather"
+    ],
+    "name": "High voltage",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3c6.svg",
+    "id": "emoji-1f3c6",
+    "keywords": [
+      "champion",
+      "champs",
+      "prize",
+      "slay",
+      "sport",
+      "victory",
+      "win",
+      "winning",
+      "emoji",
+      "activities",
+      "award medals"
+    ],
+    "name": "Trophy",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f947.svg",
+    "id": "emoji-1f947",
+    "keywords": [
+      "1st",
+      "first",
+      "gold",
+      "medal",
+      "place",
+      "emoji",
+      "activities",
+      "award medals"
+    ],
+    "name": "1st place medal",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/26bd.svg",
+    "id": "emoji-26bd",
+    "keywords": [
+      "ball",
+      "football",
+      "futbol",
+      "soccer",
+      "sport",
+      "emoji",
+      "activities",
+      "sports"
+    ],
+    "name": "Soccer ball",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3c0.svg",
+    "id": "emoji-1f3c0",
+    "keywords": ["ball", "hoop", "sport", "emoji", "activities", "sports"],
+    "name": "Basketball",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f382.svg",
+    "id": "emoji-1f382",
+    "keywords": [
+      "bday",
+      "birthday",
+      "cake",
+      "celebration",
+      "dessert",
+      "happy",
+      "pastry",
+      "sweet",
+      "emoji",
+      "food & drink",
+      "sweets & candy"
+    ],
+    "name": "Birthday cake",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f355.svg",
+    "id": "emoji-1f355",
+    "keywords": [
+      "cheese",
+      "food",
+      "hungry",
+      "pepperoni",
+      "slice",
+      "emoji",
+      "food & drink",
+      "cooked / prepared"
+    ],
+    "name": "Pizza",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2615.svg",
+    "id": "emoji-2615",
+    "keywords": [
+      "beverage",
+      "cafe",
+      "caffeine",
+      "chai",
+      "coffee",
+      "drink",
+      "hot",
+      "morning",
+      "steaming",
+      "tea",
+      "emoji",
+      "food & drink"
+    ],
+    "name": "Hot beverage",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f480.svg",
+    "id": "emoji-1f480",
+    "keywords": [
+      "body",
+      "dead",
+      "death",
+      "face",
+      "fairy",
+      "fairytale",
+      "i'm",
+      "lmao",
+      "monster",
+      "tale",
+      "yolo",
+      "emoji",
+      "smileys & emotion",
+      "negative"
+    ],
+    "name": "Skull",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f47b.svg",
+    "id": "emoji-1f47b",
+    "keywords": [
+      "boo",
+      "creature",
+      "excited",
+      "face",
+      "fairy",
+      "fairytale",
+      "fantasy",
+      "halloween",
+      "haunting",
+      "monster",
+      "scary",
+      "silly",
+      "tale",
+      "emoji"
+    ],
+    "name": "Ghost",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f47d.svg",
+    "id": "emoji-1f47d",
+    "keywords": [
+      "creature",
+      "extraterrestrial",
+      "face",
+      "fairy",
+      "fairytale",
+      "fantasy",
+      "monster",
+      "space",
+      "tale",
+      "ufo",
+      "emoji",
+      "smileys & emotion",
+      "costumed & creatures"
+    ],
+    "name": "Alien",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f916.svg",
+    "id": "emoji-1f916",
+    "keywords": [
+      "face",
+      "monster",
+      "emoji",
+      "smileys & emotion",
+      "costumed & creatures"
+    ],
+    "name": "Robot",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f451.svg",
+    "id": "emoji-1f451",
+    "keywords": [
+      "clothing",
+      "family",
+      "king",
+      "medieval",
+      "queen",
+      "royal",
+      "royalty",
+      "win",
+      "emoji",
+      "objects"
+    ],
+    "name": "Crown",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f48e.svg",
+    "id": "emoji-1f48e",
+    "keywords": [
+      "diamond",
+      "engagement",
+      "gem",
+      "jewel",
+      "money",
+      "romance",
+      "stone",
+      "wedding",
+      "emoji",
+      "objects",
+      "clothing"
+    ],
+    "name": "Gem stone",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4e3.svg",
+    "id": "emoji-1f4e3",
+    "keywords": ["cheering", "sound", "emoji", "objects"],
+    "name": "Megaphone",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f514.svg",
+    "id": "emoji-1f514",
+    "keywords": ["break", "church", "sound", "emoji", "objects"],
+    "name": "Bell",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3b5.svg",
+    "id": "emoji-1f3b5",
+    "keywords": ["music", "musical", "note", "sound", "emoji", "objects"],
+    "name": "Musical note",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3b6.svg",
+    "id": "emoji-1f3b6",
+    "keywords": [
+      "music",
+      "musical",
+      "note",
+      "notes",
+      "sound",
+      "emoji",
+      "objects"
+    ],
+    "name": "Musical notes",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f399.svg",
+    "id": "emoji-1f399",
+    "keywords": ["mic", "microphone", "music", "studio", "emoji", "objects"],
+    "name": "Studio microphone",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3a4.svg",
+    "id": "emoji-1f3a4",
+    "keywords": [
+      "karaoke",
+      "mic",
+      "music",
+      "sing",
+      "sound",
+      "emoji",
+      "objects"
+    ],
+    "name": "Microphone",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3a7.svg",
+    "id": "emoji-1f3a7",
+    "keywords": ["earbud", "sound", "emoji", "objects", "music"],
+    "name": "Headphone",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3b8.svg",
+    "id": "emoji-1f3b8",
+    "keywords": [
+      "instrument",
+      "music",
+      "strat",
+      "emoji",
+      "objects",
+      "musical instruments"
+    ],
+    "name": "Guitar",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f941.svg",
+    "id": "emoji-1f941",
+    "keywords": [
+      "drumsticks",
+      "music",
+      "emoji",
+      "objects",
+      "musical instruments"
+    ],
+    "name": "Drum",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4f1.svg",
+    "id": "emoji-1f4f1",
+    "keywords": [
+      "cell",
+      "communication",
+      "mobile",
+      "phone",
+      "telephone",
+      "emoji",
+      "objects"
+    ],
+    "name": "Mobile phone",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4bb.svg",
+    "id": "emoji-1f4bb",
+    "keywords": ["computer", "office", "pc", "personal", "emoji", "objects"],
+    "name": "Laptop",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3a5.svg",
+    "id": "emoji-1f3a5",
+    "keywords": [
+      "bollywood",
+      "camera",
+      "cinema",
+      "film",
+      "hollywood",
+      "movie",
+      "record",
+      "emoji",
+      "objects",
+      "light, film & video"
+    ],
+    "name": "Movie camera",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f39e.svg",
+    "id": "emoji-1f39e",
+    "keywords": [
+      "cinema",
+      "film",
+      "frames",
+      "movie",
+      "emoji",
+      "objects",
+      "light, film & video"
+    ],
+    "name": "Film frames",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f3ac.svg",
+    "id": "emoji-1f3ac",
+    "keywords": [
+      "action",
+      "board",
+      "clapper",
+      "movie",
+      "emoji",
+      "objects",
+      "light, film & video"
+    ],
+    "name": "Clapper board",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4fa.svg",
+    "id": "emoji-1f4fa",
+    "keywords": ["tv", "video", "emoji", "objects", "light, film & video"],
+    "name": "Television",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4f8.svg",
+    "id": "emoji-1f4f8",
+    "keywords": [
+      "camera",
+      "flash",
+      "video",
+      "emoji",
+      "objects",
+      "light, film & video"
+    ],
+    "name": "Camera with flash",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4f9.svg",
+    "id": "emoji-1f4f9",
+    "keywords": [
+      "camcorder",
+      "camera",
+      "tbt",
+      "video",
+      "emoji",
+      "objects",
+      "light, film & video"
+    ],
+    "name": "Video camera",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4a1.svg",
+    "id": "emoji-1f4a1",
+    "keywords": [
+      "bulb",
+      "comic",
+      "electric",
+      "idea",
+      "light",
+      "emoji",
+      "objects",
+      "light, film & video"
+    ],
+    "name": "Light bulb",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4b0.svg",
+    "id": "emoji-1f4b0",
+    "keywords": [
+      "bag",
+      "bank",
+      "bet",
+      "billion",
+      "cash",
+      "cost",
+      "dollar",
+      "gold",
+      "million",
+      "money",
+      "moneybag",
+      "paid",
+      "paying",
+      "pot"
+    ],
+    "name": "Money bag",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4b5.svg",
+    "id": "emoji-1f4b5",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "currency",
+      "dollar",
+      "money",
+      "note",
+      "emoji",
+      "objects"
+    ],
+    "name": "Dollar banknote",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4b8.svg",
+    "id": "emoji-1f4b8",
+    "keywords": [
+      "bank",
+      "banknote",
+      "bill",
+      "billion",
+      "cash",
+      "dollar",
+      "fly",
+      "million",
+      "money",
+      "note",
+      "pay",
+      "wings",
+      "emoji",
+      "objects"
+    ],
+    "name": "Money with wings",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2709.svg",
+    "id": "emoji-2709",
+    "keywords": ["e-mail", "email", "letter", "emoji", "objects", "mail"],
+    "name": "Envelope",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4e6.svg",
+    "id": "emoji-1f4e6",
+    "keywords": [
+      "box",
+      "communication",
+      "delivery",
+      "parcel",
+      "shipping",
+      "emoji",
+      "objects",
+      "mail"
+    ],
+    "name": "Package",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/270f.svg",
+    "id": "emoji-270f",
+    "keywords": ["pencil", "emoji", "objects", "writing"],
+    "name": "Pencil",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4dd.svg",
+    "id": "emoji-1f4dd",
+    "keywords": [
+      "communication",
+      "media",
+      "notes",
+      "pencil",
+      "emoji",
+      "objects",
+      "writing"
+    ],
+    "name": "Memo",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4c5.svg",
+    "id": "emoji-1f4c5",
+    "keywords": ["date", "emoji", "objects", "office supplies"],
+    "name": "Calendar",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4c8.svg",
+    "id": "emoji-1f4c8",
+    "keywords": [
+      "chart",
+      "data",
+      "graph",
+      "growth",
+      "increasing",
+      "right",
+      "trend",
+      "up",
+      "upward",
+      "emoji",
+      "objects",
+      "office supplies"
+    ],
+    "name": "Chart increasing",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4c9.svg",
+    "id": "emoji-1f4c9",
+    "keywords": [
+      "chart",
+      "data",
+      "decreasing",
+      "down",
+      "downward",
+      "graph",
+      "negative",
+      "trend",
+      "emoji",
+      "objects",
+      "office supplies"
+    ],
+    "name": "Chart decreasing",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4ca.svg",
+    "id": "emoji-1f4ca",
+    "keywords": [
+      "bar",
+      "chart",
+      "data",
+      "graph",
+      "emoji",
+      "objects",
+      "office supplies"
+    ],
+    "name": "Bar chart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4cc.svg",
+    "id": "emoji-1f4cc",
+    "keywords": ["collage", "pin", "emoji", "objects", "office supplies"],
+    "name": "Pushpin",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4cd.svg",
+    "id": "emoji-1f4cd",
+    "keywords": [
+      "location",
+      "map",
+      "pin",
+      "pushpin",
+      "round",
+      "emoji",
+      "objects",
+      "office supplies"
+    ],
+    "name": "Round pushpin",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4ce.svg",
+    "id": "emoji-1f4ce",
+    "keywords": ["paperclip", "emoji", "objects", "office supplies"],
+    "name": "Paperclip",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2702.svg",
+    "id": "emoji-2702",
+    "keywords": [
+      "cut",
+      "cutting",
+      "paper",
+      "tool",
+      "emoji",
+      "objects",
+      "office supplies"
+    ],
+    "name": "Scissors",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f512.svg",
+    "id": "emoji-1f512",
+    "keywords": [
+      "closed",
+      "lock",
+      "private",
+      "emoji",
+      "objects",
+      "lock & keys"
+    ],
+    "name": "Locked",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f511.svg",
+    "id": "emoji-1f511",
+    "keywords": [
+      "keys",
+      "lock",
+      "major",
+      "password",
+      "unlock",
+      "emoji",
+      "objects",
+      "lock & keys"
+    ],
+    "name": "Key",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f528.svg",
+    "id": "emoji-1f528",
+    "keywords": [
+      "home",
+      "improvement",
+      "repairs",
+      "tool",
+      "emoji",
+      "objects",
+      "tools"
+    ],
+    "name": "Hammer",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f527.svg",
+    "id": "emoji-1f527",
+    "keywords": [
+      "home",
+      "improvement",
+      "spanner",
+      "tool",
+      "emoji",
+      "objects",
+      "tools"
+    ],
+    "name": "Wrench",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2699.svg",
+    "id": "emoji-2699",
+    "keywords": ["cog", "cogwheel", "tool", "emoji", "objects", "tools"],
+    "name": "Gear",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f9f2.svg",
+    "id": "emoji-1f9f2",
+    "keywords": [
+      "attraction",
+      "horseshoe",
+      "magnetic",
+      "negative",
+      "positive",
+      "shape",
+      "u",
+      "emoji",
+      "objects",
+      "tools"
+    ],
+    "name": "Magnet",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f4a3.svg",
+    "id": "emoji-1f4a3",
+    "keywords": [
+      "boom",
+      "comic",
+      "dangerous",
+      "explosion",
+      "hot",
+      "emoji",
+      "objects",
+      "tools"
+    ],
+    "name": "Bomb",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f50d.svg",
+    "id": "emoji-1f50d",
+    "keywords": [
+      "glass",
+      "lab",
+      "left",
+      "left-pointing",
+      "magnifying",
+      "science",
+      "search",
+      "tilted",
+      "tool",
+      "emoji",
+      "objects",
+      "light, film & video"
+    ],
+    "name": "Magnifying glass tilted left",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f6d2.svg",
+    "id": "emoji-1f6d2",
+    "keywords": [
+      "cart",
+      "shopping",
+      "trolley",
+      "emoji",
+      "objects",
+      "household items"
+    ],
+    "name": "Shopping cart",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1fae7.svg",
+    "id": "emoji-1fae7",
+    "keywords": [
+      "bubble",
+      "burp",
+      "clean",
+      "floating",
+      "pearl",
+      "soap",
+      "underwater",
+      "emoji",
+      "objects",
+      "household items"
+    ],
+    "name": "Bubbles",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/26a0.svg",
+    "id": "emoji-26a0",
+    "keywords": ["caution", "emoji", "symbols", "warning symbols"],
+    "name": "Warning",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/26d4.svg",
+    "id": "emoji-26d4",
+    "keywords": [
+      "do",
+      "entry",
+      "fail",
+      "forbidden",
+      "no",
+      "not",
+      "pass",
+      "prohibited",
+      "traffic",
+      "emoji",
+      "symbols",
+      "warning symbols"
+    ],
+    "name": "No entry",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f6ab.svg",
+    "id": "emoji-1f6ab",
+    "keywords": [
+      "entry",
+      "forbidden",
+      "no",
+      "not",
+      "smoke",
+      "emoji",
+      "symbols",
+      "warning symbols"
+    ],
+    "name": "Prohibited",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2b06.svg",
+    "id": "emoji-2b06",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "north",
+      "up",
+      "emoji",
+      "symbols",
+      "arrows"
+    ],
+    "name": "Up arrow",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/27a1.svg",
+    "id": "emoji-27a1",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "east",
+      "right",
+      "emoji",
+      "symbols",
+      "arrows"
+    ],
+    "name": "Right arrow",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2b07.svg",
+    "id": "emoji-2b07",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "down",
+      "south",
+      "emoji",
+      "symbols",
+      "arrows"
+    ],
+    "name": "Down arrow",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2b05.svg",
+    "id": "emoji-2b05",
+    "keywords": [
+      "arrow",
+      "cardinal",
+      "direction",
+      "left",
+      "west",
+      "emoji",
+      "symbols",
+      "arrows"
+    ],
+    "name": "Left arrow",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/25b6.svg",
+    "id": "emoji-25b6",
+    "keywords": [
+      "arrow",
+      "button",
+      "play",
+      "right",
+      "triangle",
+      "emoji",
+      "symbols",
+      "audio & video symbols"
+    ],
+    "name": "Play button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/23f8.svg",
+    "id": "emoji-23f8",
+    "keywords": [
+      "bar",
+      "button",
+      "double",
+      "pause",
+      "vertical",
+      "emoji",
+      "symbols",
+      "audio & video symbols"
+    ],
+    "name": "Pause button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/23fa.svg",
+    "id": "emoji-23fa",
+    "keywords": [
+      "button",
+      "circle",
+      "record",
+      "emoji",
+      "symbols",
+      "audio & video symbols"
+    ],
+    "name": "Record button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2795.svg",
+    "id": "emoji-2795",
+    "keywords": ["+", "emoji", "symbols", "math symbols"],
+    "name": "Plus",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2796.svg",
+    "id": "emoji-2796",
+    "keywords": [
+      "-",
+      "heavy",
+      "math",
+      "sign",
+      "−",
+      "emoji",
+      "symbols",
+      "math symbols"
+    ],
+    "name": "Minus",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/267e.svg",
+    "id": "emoji-267e",
+    "keywords": [
+      "forever",
+      "unbounded",
+      "universal",
+      "emoji",
+      "symbols",
+      "math symbols"
+    ],
+    "name": "Infinity",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/203c.svg",
+    "id": "emoji-203c",
+    "keywords": [
+      "!",
+      "!!",
+      "bangbang",
+      "double",
+      "exclamation",
+      "mark",
+      "punctuation",
+      "emoji",
+      "symbols"
+    ],
+    "name": "Double exclamation mark",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2049.svg",
+    "id": "emoji-2049",
+    "keywords": [
+      "!",
+      "!?",
+      "?",
+      "exclamation",
+      "interrobang",
+      "mark",
+      "punctuation",
+      "question",
+      "emoji",
+      "symbols"
+    ],
+    "name": "Exclamation question mark",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2753.svg",
+    "id": "emoji-2753",
+    "keywords": [
+      "?",
+      "mark",
+      "punctuation",
+      "question",
+      "red",
+      "emoji",
+      "symbols"
+    ],
+    "name": "Red question mark",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2757.svg",
+    "id": "emoji-2757",
+    "keywords": [
+      "!",
+      "exclamation",
+      "mark",
+      "punctuation",
+      "red",
+      "emoji",
+      "symbols"
+    ],
+    "name": "Red exclamation mark",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/267b.svg",
+    "id": "emoji-267b",
+    "keywords": [
+      "recycle",
+      "recycling",
+      "symbol",
+      "emoji",
+      "symbols",
+      "other symbols"
+    ],
+    "name": "Recycling symbol",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2b55.svg",
+    "id": "emoji-2b55",
+    "keywords": [
+      "circle",
+      "heavy",
+      "hollow",
+      "large",
+      "o",
+      "red",
+      "emoji",
+      "symbols",
+      "other symbols"
+    ],
+    "name": "Hollow red circle",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2705.svg",
+    "id": "emoji-2705",
+    "keywords": [
+      "button",
+      "check",
+      "checked",
+      "checkmark",
+      "complete",
+      "completed",
+      "done",
+      "fixed",
+      "mark",
+      "tick",
+      "✓",
+      "emoji",
+      "symbols",
+      "other symbols"
+    ],
+    "name": "Check mark button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2714.svg",
+    "id": "emoji-2714",
+    "keywords": [
+      "check",
+      "checked",
+      "checkmark",
+      "done",
+      "heavy",
+      "mark",
+      "tick",
+      "✓",
+      "emoji",
+      "symbols",
+      "other symbols"
+    ],
+    "name": "Check mark",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/274c.svg",
+    "id": "emoji-274c",
+    "keywords": [
+      "cancel",
+      "cross",
+      "mark",
+      "multiplication",
+      "multiply",
+      "x",
+      "×",
+      "emoji",
+      "symbols",
+      "other symbols"
+    ],
+    "name": "Cross mark",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/2747.svg",
+    "id": "emoji-2747",
+    "keywords": ["*", "emoji", "symbols", "other symbols"],
+    "name": "Sparkle",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f195.svg",
+    "id": "emoji-1f195",
+    "keywords": ["button", "new", "emoji", "symbols", "alphanumeric symbols"],
+    "name": "NEW button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f197.svg",
+    "id": "emoji-1f197",
+    "keywords": [
+      "button",
+      "ok",
+      "okay",
+      "emoji",
+      "symbols",
+      "alphanumeric symbols"
+    ],
+    "name": "OK button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f198.svg",
+    "id": "emoji-1f198",
+    "keywords": [
+      "button",
+      "help",
+      "sos",
+      "emoji",
+      "symbols",
+      "alphanumeric symbols"
+    ],
+    "name": "SOS button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f199.svg",
+    "id": "emoji-1f199",
+    "keywords": [
+      "button",
+      "mark",
+      "up",
+      "up!",
+      "emoji",
+      "symbols",
+      "alphanumeric symbols"
+    ],
+    "name": "UP! button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f19a.svg",
+    "id": "emoji-1f19a",
+    "keywords": [
+      "button",
+      "versus",
+      "vs",
+      "emoji",
+      "symbols",
+      "alphanumeric symbols"
+    ],
+    "name": "VS button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f193.svg",
+    "id": "emoji-1f193",
+    "keywords": ["button", "free", "emoji", "symbols", "alphanumeric symbols"],
+    "name": "FREE button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f192.svg",
+    "id": "emoji-1f192",
+    "keywords": ["button", "cool", "emoji", "symbols", "alphanumeric symbols"],
+    "name": "COOL button",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f534.svg",
+    "id": "emoji-1f534",
+    "keywords": [
+      "circle",
+      "geometric",
+      "red",
+      "emoji",
+      "symbols",
+      "shapes & colors"
+    ],
+    "name": "Red circle",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f7e2.svg",
+    "id": "emoji-1f7e2",
+    "keywords": ["circle", "green", "emoji", "symbols", "shapes & colors"],
+    "name": "Green circle",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1,
+    "category": "emoji",
+    "file": "emoji/1f535.svg",
+    "id": "emoji-1f535",
+    "keywords": [
+      "blue",
+      "circle",
+      "geometric",
+      "emoji",
+      "symbols",
+      "shapes & colors"
+    ],
+    "name": "Blue circle",
+    "source": "twemoji"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ax.svg",
+    "id": "flag-ax",
+    "keywords": ["flag", "country", "ax", "europe"],
+    "name": "Flag of Aland Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/al.svg",
+    "id": "flag-al",
+    "keywords": ["flag", "country", "al", "europe"],
+    "name": "Flag of Albania",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/dz.svg",
+    "id": "flag-dz",
+    "keywords": ["flag", "country", "dz", "africa"],
+    "name": "Flag of Algeria",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ao.svg",
+    "id": "flag-ao",
+    "keywords": ["flag", "country", "ao", "africa"],
+    "name": "Flag of Angola",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ai.svg",
+    "id": "flag-ai",
+    "keywords": ["flag", "country", "ai", "north america"],
+    "name": "Flag of Anguilla",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/aq.svg",
+    "id": "flag-aq",
+    "keywords": ["flag", "country", "aq"],
+    "name": "Flag of Antarctica",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ag.svg",
+    "id": "flag-ag",
+    "keywords": ["flag", "country", "ag", "north america"],
+    "name": "Flag of Antigua and Barbuda",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ar.svg",
+    "id": "flag-ar",
+    "keywords": ["flag", "country", "ar", "south america"],
+    "name": "Flag of Argentina",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/am.svg",
+    "id": "flag-am",
+    "keywords": ["flag", "country", "am", "asia"],
+    "name": "Flag of Armenia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/aw.svg",
+    "id": "flag-aw",
+    "keywords": ["flag", "country", "aw", "south america"],
+    "name": "Flag of Aruba",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/au.svg",
+    "id": "flag-au",
+    "keywords": ["flag", "country", "au", "oceania"],
+    "name": "Flag of Australia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/at.svg",
+    "id": "flag-at",
+    "keywords": ["flag", "country", "at", "europe"],
+    "name": "Flag of Austria",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/az.svg",
+    "id": "flag-az",
+    "keywords": ["flag", "country", "az", "asia"],
+    "name": "Flag of Azerbaijan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bs.svg",
+    "id": "flag-bs",
+    "keywords": ["flag", "country", "bs", "north america"],
+    "name": "Flag of Bahamas",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bh.svg",
+    "id": "flag-bh",
+    "keywords": ["flag", "country", "bh", "asia"],
+    "name": "Flag of Bahrain",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bd.svg",
+    "id": "flag-bd",
+    "keywords": ["flag", "country", "bd", "asia"],
+    "name": "Flag of Bangladesh",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bb.svg",
+    "id": "flag-bb",
+    "keywords": ["flag", "country", "bb", "north america"],
+    "name": "Flag of Barbados",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/by.svg",
+    "id": "flag-by",
+    "keywords": ["flag", "country", "by", "europe"],
+    "name": "Flag of Belarus",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/be.svg",
+    "id": "flag-be",
+    "keywords": ["flag", "country", "be", "europe"],
+    "name": "Flag of Belgium",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bj.svg",
+    "id": "flag-bj",
+    "keywords": ["flag", "country", "bj", "africa"],
+    "name": "Flag of Benin",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bq.svg",
+    "id": "flag-bq",
+    "keywords": ["flag", "country", "bq", "south america"],
+    "name": "Flag of Bonaire, Sint Eustatius and Saba",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ba.svg",
+    "id": "flag-ba",
+    "keywords": ["flag", "country", "ba", "europe"],
+    "name": "Flag of Bosnia and Herzegovina",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bw.svg",
+    "id": "flag-bw",
+    "keywords": ["flag", "country", "bw", "africa"],
+    "name": "Flag of Botswana",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bv.svg",
+    "id": "flag-bv",
+    "keywords": ["flag", "country", "bv"],
+    "name": "Flag of Bouvet Island",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/br.svg",
+    "id": "flag-br",
+    "keywords": ["flag", "country", "br", "south america"],
+    "name": "Flag of Brazil",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bg.svg",
+    "id": "flag-bg",
+    "keywords": ["flag", "country", "bg", "europe"],
+    "name": "Flag of Bulgaria",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bf.svg",
+    "id": "flag-bf",
+    "keywords": ["flag", "country", "bf", "africa"],
+    "name": "Flag of Burkina Faso",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bi.svg",
+    "id": "flag-bi",
+    "keywords": ["flag", "country", "bi", "africa"],
+    "name": "Flag of Burundi",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cv.svg",
+    "id": "flag-cv",
+    "keywords": ["flag", "country", "cv", "africa"],
+    "name": "Flag of Cabo Verde",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/kh.svg",
+    "id": "flag-kh",
+    "keywords": ["flag", "country", "kh", "asia"],
+    "name": "Flag of Cambodia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cm.svg",
+    "id": "flag-cm",
+    "keywords": ["flag", "country", "cm", "africa"],
+    "name": "Flag of Cameroon",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ca.svg",
+    "id": "flag-ca",
+    "keywords": ["flag", "country", "ca", "north america"],
+    "name": "Flag of Canada",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cf.svg",
+    "id": "flag-cf",
+    "keywords": ["flag", "country", "cf", "africa"],
+    "name": "Flag of Central African Republic",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/td.svg",
+    "id": "flag-td",
+    "keywords": ["flag", "country", "td", "africa"],
+    "name": "Flag of Chad",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cl.svg",
+    "id": "flag-cl",
+    "keywords": ["flag", "country", "cl", "south america"],
+    "name": "Flag of Chile",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cn.svg",
+    "id": "flag-cn",
+    "keywords": ["flag", "country", "cn", "asia"],
+    "name": "Flag of China",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cx.svg",
+    "id": "flag-cx",
+    "keywords": ["flag", "country", "cx", "asia"],
+    "name": "Flag of Christmas Island",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cc.svg",
+    "id": "flag-cc",
+    "keywords": ["flag", "country", "cc", "asia"],
+    "name": "Flag of Cocos (Keeling) Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/co.svg",
+    "id": "flag-co",
+    "keywords": ["flag", "country", "co", "south america"],
+    "name": "Flag of Colombia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/km.svg",
+    "id": "flag-km",
+    "keywords": ["flag", "country", "km", "africa"],
+    "name": "Flag of Comoros",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ck.svg",
+    "id": "flag-ck",
+    "keywords": ["flag", "country", "ck", "oceania"],
+    "name": "Flag of Cook Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cr.svg",
+    "id": "flag-cr",
+    "keywords": ["flag", "country", "cr", "north america"],
+    "name": "Flag of Costa Rica",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cu.svg",
+    "id": "flag-cu",
+    "keywords": ["flag", "country", "cu", "north america"],
+    "name": "Flag of Cuba",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cw.svg",
+    "id": "flag-cw",
+    "keywords": ["flag", "country", "cw", "south america"],
+    "name": "Flag of Curaçao",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cy.svg",
+    "id": "flag-cy",
+    "keywords": ["flag", "country", "cy", "europe"],
+    "name": "Flag of Cyprus",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cz.svg",
+    "id": "flag-cz",
+    "keywords": ["flag", "country", "cz", "europe"],
+    "name": "Flag of Czech Republic",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ci.svg",
+    "id": "flag-ci",
+    "keywords": ["flag", "country", "ci", "africa"],
+    "name": "Flag of Côte d'Ivoire",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cd.svg",
+    "id": "flag-cd",
+    "keywords": ["flag", "country", "cd", "africa"],
+    "name": "Flag of Democratic Republic of the Congo",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/dk.svg",
+    "id": "flag-dk",
+    "keywords": ["flag", "country", "dk", "europe"],
+    "name": "Flag of Denmark",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/dj.svg",
+    "id": "flag-dj",
+    "keywords": ["flag", "country", "dj", "africa"],
+    "name": "Flag of Djibouti",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/eg.svg",
+    "id": "flag-eg",
+    "keywords": ["flag", "country", "eg", "africa"],
+    "name": "Flag of Egypt",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gq.svg",
+    "id": "flag-gq",
+    "keywords": ["flag", "country", "gq", "africa"],
+    "name": "Flag of Equatorial Guinea",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/er.svg",
+    "id": "flag-er",
+    "keywords": ["flag", "country", "er", "africa"],
+    "name": "Flag of Eritrea",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ee.svg",
+    "id": "flag-ee",
+    "keywords": ["flag", "country", "ee", "europe"],
+    "name": "Flag of Estonia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sz.svg",
+    "id": "flag-sz",
+    "keywords": ["flag", "country", "sz", "africa"],
+    "name": "Flag of Eswatini",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/et.svg",
+    "id": "flag-et",
+    "keywords": ["flag", "country", "et", "africa"],
+    "name": "Flag of Ethiopia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/fo.svg",
+    "id": "flag-fo",
+    "keywords": ["flag", "country", "fo", "europe"],
+    "name": "Flag of Faroe Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/fm.svg",
+    "id": "flag-fm",
+    "keywords": ["flag", "country", "fm", "oceania"],
+    "name": "Flag of Federated States of Micronesia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/fi.svg",
+    "id": "flag-fi",
+    "keywords": ["flag", "country", "fi", "europe"],
+    "name": "Flag of Finland",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/fr.svg",
+    "id": "flag-fr",
+    "keywords": ["flag", "country", "fr", "europe"],
+    "name": "Flag of France",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gf.svg",
+    "id": "flag-gf",
+    "keywords": ["flag", "country", "gf", "south america"],
+    "name": "Flag of French Guiana",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pf.svg",
+    "id": "flag-pf",
+    "keywords": ["flag", "country", "pf", "oceania"],
+    "name": "Flag of French Polynesia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tf.svg",
+    "id": "flag-tf",
+    "keywords": ["flag", "country", "tf", "africa"],
+    "name": "Flag of French Southern Territories",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ga.svg",
+    "id": "flag-ga",
+    "keywords": ["flag", "country", "ga", "africa"],
+    "name": "Flag of Gabon",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gm.svg",
+    "id": "flag-gm",
+    "keywords": ["flag", "country", "gm", "africa"],
+    "name": "Flag of Gambia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ge.svg",
+    "id": "flag-ge",
+    "keywords": ["flag", "country", "ge", "asia"],
+    "name": "Flag of Georgia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/de.svg",
+    "id": "flag-de",
+    "keywords": ["flag", "country", "de", "europe"],
+    "name": "Flag of Germany",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gh.svg",
+    "id": "flag-gh",
+    "keywords": ["flag", "country", "gh", "africa"],
+    "name": "Flag of Ghana",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gi.svg",
+    "id": "flag-gi",
+    "keywords": ["flag", "country", "gi", "europe"],
+    "name": "Flag of Gibraltar",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gr.svg",
+    "id": "flag-gr",
+    "keywords": ["flag", "country", "gr", "europe"],
+    "name": "Flag of Greece",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gl.svg",
+    "id": "flag-gl",
+    "keywords": ["flag", "country", "gl", "north america"],
+    "name": "Flag of Greenland",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gd.svg",
+    "id": "flag-gd",
+    "keywords": ["flag", "country", "gd", "north america"],
+    "name": "Flag of Grenada",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gp.svg",
+    "id": "flag-gp",
+    "keywords": ["flag", "country", "gp", "north america"],
+    "name": "Flag of Guadeloupe",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gu.svg",
+    "id": "flag-gu",
+    "keywords": ["flag", "country", "gu", "oceania"],
+    "name": "Flag of Guam",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gg.svg",
+    "id": "flag-gg",
+    "keywords": ["flag", "country", "gg", "europe"],
+    "name": "Flag of Guernsey",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gn.svg",
+    "id": "flag-gn",
+    "keywords": ["flag", "country", "gn", "africa"],
+    "name": "Flag of Guinea",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gw.svg",
+    "id": "flag-gw",
+    "keywords": ["flag", "country", "gw", "africa"],
+    "name": "Flag of Guinea-Bissau",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gy.svg",
+    "id": "flag-gy",
+    "keywords": ["flag", "country", "gy", "south america"],
+    "name": "Flag of Guyana",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/hm.svg",
+    "id": "flag-hm",
+    "keywords": ["flag", "country", "hm"],
+    "name": "Flag of Heard Island and McDonald Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/hn.svg",
+    "id": "flag-hn",
+    "keywords": ["flag", "country", "hn", "north america"],
+    "name": "Flag of Honduras",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/hk.svg",
+    "id": "flag-hk",
+    "keywords": ["flag", "country", "hk", "asia"],
+    "name": "Flag of Hong Kong",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/hu.svg",
+    "id": "flag-hu",
+    "keywords": ["flag", "country", "hu", "europe"],
+    "name": "Flag of Hungary",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/is.svg",
+    "id": "flag-is",
+    "keywords": ["flag", "country", "is", "europe"],
+    "name": "Flag of Iceland",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/in.svg",
+    "id": "flag-in",
+    "keywords": ["flag", "country", "in", "asia"],
+    "name": "Flag of India",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/id.svg",
+    "id": "flag-id",
+    "keywords": ["flag", "country", "id", "asia"],
+    "name": "Flag of Indonesia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/iq.svg",
+    "id": "flag-iq",
+    "keywords": ["flag", "country", "iq", "asia"],
+    "name": "Flag of Iraq",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ie.svg",
+    "id": "flag-ie",
+    "keywords": ["flag", "country", "ie", "europe"],
+    "name": "Flag of Ireland",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/im.svg",
+    "id": "flag-im",
+    "keywords": ["flag", "country", "im", "europe"],
+    "name": "Flag of Isle of Man",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/il.svg",
+    "id": "flag-il",
+    "keywords": ["flag", "country", "il", "asia"],
+    "name": "Flag of Israel",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/it.svg",
+    "id": "flag-it",
+    "keywords": ["flag", "country", "it", "europe"],
+    "name": "Flag of Italy",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/jm.svg",
+    "id": "flag-jm",
+    "keywords": ["flag", "country", "jm", "north america"],
+    "name": "Flag of Jamaica",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/jp.svg",
+    "id": "flag-jp",
+    "keywords": ["flag", "country", "jp", "asia"],
+    "name": "Flag of Japan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/jo.svg",
+    "id": "flag-jo",
+    "keywords": ["flag", "country", "jo", "asia"],
+    "name": "Flag of Jordan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/kz.svg",
+    "id": "flag-kz",
+    "keywords": ["flag", "country", "kz", "asia"],
+    "name": "Flag of Kazakhstan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ke.svg",
+    "id": "flag-ke",
+    "keywords": ["flag", "country", "ke", "africa"],
+    "name": "Flag of Kenya",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ki.svg",
+    "id": "flag-ki",
+    "keywords": ["flag", "country", "ki", "oceania"],
+    "name": "Flag of Kiribati",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/kw.svg",
+    "id": "flag-kw",
+    "keywords": ["flag", "country", "kw", "asia"],
+    "name": "Flag of Kuwait",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/kg.svg",
+    "id": "flag-kg",
+    "keywords": ["flag", "country", "kg", "asia"],
+    "name": "Flag of Kyrgyzstan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/la.svg",
+    "id": "flag-la",
+    "keywords": ["flag", "country", "la", "asia"],
+    "name": "Flag of Laos",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/lv.svg",
+    "id": "flag-lv",
+    "keywords": ["flag", "country", "lv", "europe"],
+    "name": "Flag of Latvia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/lb.svg",
+    "id": "flag-lb",
+    "keywords": ["flag", "country", "lb", "asia"],
+    "name": "Flag of Lebanon",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ls.svg",
+    "id": "flag-ls",
+    "keywords": ["flag", "country", "ls", "africa"],
+    "name": "Flag of Lesotho",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/lr.svg",
+    "id": "flag-lr",
+    "keywords": ["flag", "country", "lr", "africa"],
+    "name": "Flag of Liberia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ly.svg",
+    "id": "flag-ly",
+    "keywords": ["flag", "country", "ly", "africa"],
+    "name": "Flag of Libya",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/li.svg",
+    "id": "flag-li",
+    "keywords": ["flag", "country", "li", "europe"],
+    "name": "Flag of Liechtenstein",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/lt.svg",
+    "id": "flag-lt",
+    "keywords": ["flag", "country", "lt", "europe"],
+    "name": "Flag of Lithuania",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/lu.svg",
+    "id": "flag-lu",
+    "keywords": ["flag", "country", "lu", "europe"],
+    "name": "Flag of Luxembourg",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mo.svg",
+    "id": "flag-mo",
+    "keywords": ["flag", "country", "mo", "asia"],
+    "name": "Flag of Macau",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mg.svg",
+    "id": "flag-mg",
+    "keywords": ["flag", "country", "mg", "africa"],
+    "name": "Flag of Madagascar",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mw.svg",
+    "id": "flag-mw",
+    "keywords": ["flag", "country", "mw", "africa"],
+    "name": "Flag of Malawi",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/my.svg",
+    "id": "flag-my",
+    "keywords": ["flag", "country", "my", "asia"],
+    "name": "Flag of Malaysia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mv.svg",
+    "id": "flag-mv",
+    "keywords": ["flag", "country", "mv", "asia"],
+    "name": "Flag of Maldives",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ml.svg",
+    "id": "flag-ml",
+    "keywords": ["flag", "country", "ml", "africa"],
+    "name": "Flag of Mali",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mh.svg",
+    "id": "flag-mh",
+    "keywords": ["flag", "country", "mh", "oceania"],
+    "name": "Flag of Marshall Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mq.svg",
+    "id": "flag-mq",
+    "keywords": ["flag", "country", "mq", "north america"],
+    "name": "Flag of Martinique",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mr.svg",
+    "id": "flag-mr",
+    "keywords": ["flag", "country", "mr", "africa"],
+    "name": "Flag of Mauritania",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mu.svg",
+    "id": "flag-mu",
+    "keywords": ["flag", "country", "mu", "africa"],
+    "name": "Flag of Mauritius",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/yt.svg",
+    "id": "flag-yt",
+    "keywords": ["flag", "country", "yt", "africa"],
+    "name": "Flag of Mayotte",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mc.svg",
+    "id": "flag-mc",
+    "keywords": ["flag", "country", "mc", "europe"],
+    "name": "Flag of Monaco",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mn.svg",
+    "id": "flag-mn",
+    "keywords": ["flag", "country", "mn", "asia"],
+    "name": "Flag of Mongolia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ms.svg",
+    "id": "flag-ms",
+    "keywords": ["flag", "country", "ms", "north america"],
+    "name": "Flag of Montserrat",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ma.svg",
+    "id": "flag-ma",
+    "keywords": ["flag", "country", "ma", "africa"],
+    "name": "Flag of Morocco",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mz.svg",
+    "id": "flag-mz",
+    "keywords": ["flag", "country", "mz", "africa"],
+    "name": "Flag of Mozambique",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mm.svg",
+    "id": "flag-mm",
+    "keywords": ["flag", "country", "mm", "asia"],
+    "name": "Flag of Myanmar",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/na.svg",
+    "id": "flag-na",
+    "keywords": ["flag", "country", "na", "africa"],
+    "name": "Flag of Namibia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/nr.svg",
+    "id": "flag-nr",
+    "keywords": ["flag", "country", "nr", "oceania"],
+    "name": "Flag of Nauru",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/np.svg",
+    "id": "flag-np",
+    "keywords": ["flag", "country", "np", "asia"],
+    "name": "Flag of Nepal",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/nl.svg",
+    "id": "flag-nl",
+    "keywords": ["flag", "country", "nl", "europe"],
+    "name": "Flag of Netherlands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/nc.svg",
+    "id": "flag-nc",
+    "keywords": ["flag", "country", "nc", "oceania"],
+    "name": "Flag of New Caledonia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/nz.svg",
+    "id": "flag-nz",
+    "keywords": ["flag", "country", "nz", "oceania"],
+    "name": "Flag of New Zealand",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ne.svg",
+    "id": "flag-ne",
+    "keywords": ["flag", "country", "ne", "africa"],
+    "name": "Flag of Niger",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ng.svg",
+    "id": "flag-ng",
+    "keywords": ["flag", "country", "ng", "africa"],
+    "name": "Flag of Nigeria",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/nu.svg",
+    "id": "flag-nu",
+    "keywords": ["flag", "country", "nu", "oceania"],
+    "name": "Flag of Niue",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/nf.svg",
+    "id": "flag-nf",
+    "keywords": ["flag", "country", "nf", "oceania"],
+    "name": "Flag of Norfolk Island",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/kp.svg",
+    "id": "flag-kp",
+    "keywords": ["flag", "country", "kp", "asia"],
+    "name": "Flag of North Korea",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mk.svg",
+    "id": "flag-mk",
+    "keywords": ["flag", "country", "mk", "europe"],
+    "name": "Flag of North Macedonia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/no.svg",
+    "id": "flag-no",
+    "keywords": ["flag", "country", "no", "europe"],
+    "name": "Flag of Norway",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pk.svg",
+    "id": "flag-pk",
+    "keywords": ["flag", "country", "pk", "asia"],
+    "name": "Flag of Pakistan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pw.svg",
+    "id": "flag-pw",
+    "keywords": ["flag", "country", "pw", "oceania"],
+    "name": "Flag of Palau",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pa.svg",
+    "id": "flag-pa",
+    "keywords": ["flag", "country", "pa", "north america"],
+    "name": "Flag of Panama",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pg.svg",
+    "id": "flag-pg",
+    "keywords": ["flag", "country", "pg", "oceania"],
+    "name": "Flag of Papua New Guinea",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pe.svg",
+    "id": "flag-pe",
+    "keywords": ["flag", "country", "pe", "south america"],
+    "name": "Flag of Peru",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ph.svg",
+    "id": "flag-ph",
+    "keywords": ["flag", "country", "ph", "asia"],
+    "name": "Flag of Philippines",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pl.svg",
+    "id": "flag-pl",
+    "keywords": ["flag", "country", "pl", "europe"],
+    "name": "Flag of Poland",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pt.svg",
+    "id": "flag-pt",
+    "keywords": ["flag", "country", "pt", "europe"],
+    "name": "Flag of Portugal",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pr.svg",
+    "id": "flag-pr",
+    "keywords": ["flag", "country", "pr", "north america"],
+    "name": "Flag of Puerto Rico",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/qa.svg",
+    "id": "flag-qa",
+    "keywords": ["flag", "country", "qa", "asia"],
+    "name": "Flag of Qatar",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/cg.svg",
+    "id": "flag-cg",
+    "keywords": ["flag", "country", "cg", "africa"],
+    "name": "Flag of Republic of the Congo",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ro.svg",
+    "id": "flag-ro",
+    "keywords": ["flag", "country", "ro", "europe"],
+    "name": "Flag of Romania",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ru.svg",
+    "id": "flag-ru",
+    "keywords": ["flag", "country", "ru", "europe"],
+    "name": "Flag of Russia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/rw.svg",
+    "id": "flag-rw",
+    "keywords": ["flag", "country", "rw", "africa"],
+    "name": "Flag of Rwanda",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/re.svg",
+    "id": "flag-re",
+    "keywords": ["flag", "country", "re", "africa"],
+    "name": "Flag of Réunion",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/bl.svg",
+    "id": "flag-bl",
+    "keywords": ["flag", "country", "bl", "north america"],
+    "name": "Flag of Saint Barthélemy",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sh.svg",
+    "id": "flag-sh",
+    "keywords": ["flag", "country", "sh", "africa"],
+    "name": "Flag of Saint Helena, Ascension and Tristan da Cunha",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/kn.svg",
+    "id": "flag-kn",
+    "keywords": ["flag", "country", "kn", "north america"],
+    "name": "Flag of Saint Kitts and Nevis",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/lc.svg",
+    "id": "flag-lc",
+    "keywords": ["flag", "country", "lc", "north america"],
+    "name": "Flag of Saint Lucia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/mf.svg",
+    "id": "flag-mf",
+    "keywords": ["flag", "country", "mf", "north america"],
+    "name": "Flag of Saint Martin",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/pm.svg",
+    "id": "flag-pm",
+    "keywords": ["flag", "country", "pm", "north america"],
+    "name": "Flag of Saint Pierre and Miquelon",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/vc.svg",
+    "id": "flag-vc",
+    "keywords": ["flag", "country", "vc", "north america"],
+    "name": "Flag of Saint Vincent and the Grenadines",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ws.svg",
+    "id": "flag-ws",
+    "keywords": ["flag", "country", "ws", "oceania"],
+    "name": "Flag of Samoa",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/st.svg",
+    "id": "flag-st",
+    "keywords": ["flag", "country", "st", "africa"],
+    "name": "Flag of Sao Tome and Principe",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sa.svg",
+    "id": "flag-sa",
+    "keywords": ["flag", "country", "sa", "asia"],
+    "name": "Flag of Saudi Arabia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sn.svg",
+    "id": "flag-sn",
+    "keywords": ["flag", "country", "sn", "africa"],
+    "name": "Flag of Senegal",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sc.svg",
+    "id": "flag-sc",
+    "keywords": ["flag", "country", "sc", "africa"],
+    "name": "Flag of Seychelles",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sl.svg",
+    "id": "flag-sl",
+    "keywords": ["flag", "country", "sl", "africa"],
+    "name": "Flag of Sierra Leone",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sg.svg",
+    "id": "flag-sg",
+    "keywords": ["flag", "country", "sg", "asia"],
+    "name": "Flag of Singapore",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sk.svg",
+    "id": "flag-sk",
+    "keywords": ["flag", "country", "sk", "europe"],
+    "name": "Flag of Slovakia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/si.svg",
+    "id": "flag-si",
+    "keywords": ["flag", "country", "si", "europe"],
+    "name": "Flag of Slovenia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sb.svg",
+    "id": "flag-sb",
+    "keywords": ["flag", "country", "sb", "oceania"],
+    "name": "Flag of Solomon Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/so.svg",
+    "id": "flag-so",
+    "keywords": ["flag", "country", "so", "africa"],
+    "name": "Flag of Somalia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/za.svg",
+    "id": "flag-za",
+    "keywords": ["flag", "country", "za", "africa"],
+    "name": "Flag of South Africa",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/kr.svg",
+    "id": "flag-kr",
+    "keywords": ["flag", "country", "kr", "asia"],
+    "name": "Flag of South Korea",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ss.svg",
+    "id": "flag-ss",
+    "keywords": ["flag", "country", "ss", "africa"],
+    "name": "Flag of South Sudan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ps.svg",
+    "id": "flag-ps",
+    "keywords": ["flag", "country", "ps", "asia"],
+    "name": "Flag of State of Palestine",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sd.svg",
+    "id": "flag-sd",
+    "keywords": ["flag", "country", "sd", "africa"],
+    "name": "Flag of Sudan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sr.svg",
+    "id": "flag-sr",
+    "keywords": ["flag", "country", "sr", "south america"],
+    "name": "Flag of Suriname",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sj.svg",
+    "id": "flag-sj",
+    "keywords": ["flag", "country", "sj", "europe"],
+    "name": "Flag of Svalbard and Jan Mayen",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/se.svg",
+    "id": "flag-se",
+    "keywords": ["flag", "country", "se", "europe"],
+    "name": "Flag of Sweden",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ch.svg",
+    "id": "flag-ch",
+    "keywords": ["flag", "country", "ch", "europe"],
+    "name": "Flag of Switzerland",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/sy.svg",
+    "id": "flag-sy",
+    "keywords": ["flag", "country", "sy", "asia"],
+    "name": "Flag of Syria",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tw.svg",
+    "id": "flag-tw",
+    "keywords": ["flag", "country", "tw", "asia"],
+    "name": "Flag of Taiwan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tj.svg",
+    "id": "flag-tj",
+    "keywords": ["flag", "country", "tj", "asia"],
+    "name": "Flag of Tajikistan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tz.svg",
+    "id": "flag-tz",
+    "keywords": ["flag", "country", "tz", "africa"],
+    "name": "Flag of Tanzania",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/th.svg",
+    "id": "flag-th",
+    "keywords": ["flag", "country", "th", "asia"],
+    "name": "Flag of Thailand",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tl.svg",
+    "id": "flag-tl",
+    "keywords": ["flag", "country", "tl", "asia"],
+    "name": "Flag of Timor-Leste",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tg.svg",
+    "id": "flag-tg",
+    "keywords": ["flag", "country", "tg", "africa"],
+    "name": "Flag of Togo",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tk.svg",
+    "id": "flag-tk",
+    "keywords": ["flag", "country", "tk", "oceania"],
+    "name": "Flag of Tokelau",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/to.svg",
+    "id": "flag-to",
+    "keywords": ["flag", "country", "to", "oceania"],
+    "name": "Flag of Tonga",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tt.svg",
+    "id": "flag-tt",
+    "keywords": ["flag", "country", "tt", "south america"],
+    "name": "Flag of Trinidad and Tobago",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tn.svg",
+    "id": "flag-tn",
+    "keywords": ["flag", "country", "tn", "africa"],
+    "name": "Flag of Tunisia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tc.svg",
+    "id": "flag-tc",
+    "keywords": ["flag", "country", "tc", "north america"],
+    "name": "Flag of Turks and Caicos Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tv.svg",
+    "id": "flag-tv",
+    "keywords": ["flag", "country", "tv", "oceania"],
+    "name": "Flag of Tuvalu",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/tr.svg",
+    "id": "flag-tr",
+    "keywords": ["flag", "country", "tr", "asia"],
+    "name": "Flag of Türkiye",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ug.svg",
+    "id": "flag-ug",
+    "keywords": ["flag", "country", "ug", "africa"],
+    "name": "Flag of Uganda",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ua.svg",
+    "id": "flag-ua",
+    "keywords": ["flag", "country", "ua", "europe"],
+    "name": "Flag of Ukraine",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ae.svg",
+    "id": "flag-ae",
+    "keywords": ["flag", "country", "ae", "asia"],
+    "name": "Flag of United Arab Emirates",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/gb.svg",
+    "id": "flag-gb",
+    "keywords": ["flag", "country", "gb", "europe"],
+    "name": "Flag of United Kingdom",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/um.svg",
+    "id": "flag-um",
+    "keywords": ["flag", "country", "um", "north america"],
+    "name": "Flag of United States Minor Outlying Islands",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/us.svg",
+    "id": "flag-us",
+    "keywords": ["flag", "country", "us", "north america"],
+    "name": "Flag of United States of America",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/uy.svg",
+    "id": "flag-uy",
+    "keywords": ["flag", "country", "uy", "south america"],
+    "name": "Flag of Uruguay",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/uz.svg",
+    "id": "flag-uz",
+    "keywords": ["flag", "country", "uz", "asia"],
+    "name": "Flag of Uzbekistan",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/vu.svg",
+    "id": "flag-vu",
+    "keywords": ["flag", "country", "vu", "oceania"],
+    "name": "Flag of Vanuatu",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ve.svg",
+    "id": "flag-ve",
+    "keywords": ["flag", "country", "ve", "south america"],
+    "name": "Flag of Venezuela",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/vn.svg",
+    "id": "flag-vn",
+    "keywords": ["flag", "country", "vn", "asia"],
+    "name": "Flag of Vietnam",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/vi.svg",
+    "id": "flag-vi",
+    "keywords": ["flag", "country", "vi", "north america"],
+    "name": "Flag of Virgin Islands (U.S.)",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/wf.svg",
+    "id": "flag-wf",
+    "keywords": ["flag", "country", "wf", "oceania"],
+    "name": "Flag of Wallis and Futuna",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/eh.svg",
+    "id": "flag-eh",
+    "keywords": ["flag", "country", "eh", "africa"],
+    "name": "Flag of Western Sahara",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/ye.svg",
+    "id": "flag-ye",
+    "keywords": ["flag", "country", "ye", "asia"],
+    "name": "Flag of Yemen",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/zm.svg",
+    "id": "flag-zm",
+    "keywords": ["flag", "country", "zm", "africa"],
+    "name": "Flag of Zambia",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.3333333333333333,
+    "category": "flags",
+    "file": "flags/zw.svg",
+    "id": "flag-zw",
+    "keywords": ["flag", "country", "zw", "africa"],
+    "name": "Flag of Zimbabwe",
+    "source": "flag-icons"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/circle.svg",
+    "id": "shape-circle",
+    "keywords": ["shape", "round", "dot"],
+    "name": "Circle",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/ring.svg",
+    "id": "shape-ring",
+    "keywords": ["shape", "circle", "outline", "highlight"],
+    "name": "Ring",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/square.svg",
+    "id": "shape-square",
+    "keywords": ["shape", "box", "block"],
+    "name": "Square",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/rounded-square.svg",
+    "id": "shape-rounded-square",
+    "keywords": ["shape", "box", "card", "tile"],
+    "name": "Rounded square",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/frame.svg",
+    "id": "shape-frame",
+    "keywords": ["shape", "outline", "box", "border", "highlight"],
+    "name": "Square frame",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/triangle.svg",
+    "id": "shape-triangle",
+    "keywords": ["shape", "arrow", "point"],
+    "name": "Triangle",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/diamond.svg",
+    "id": "shape-diamond",
+    "keywords": ["shape", "rhombus", "gem"],
+    "name": "Diamond",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/pentagon.svg",
+    "id": "shape-pentagon",
+    "keywords": ["shape", "polygon"],
+    "name": "Pentagon",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/hexagon.svg",
+    "id": "shape-hexagon",
+    "keywords": ["shape", "polygon", "honeycomb"],
+    "name": "Hexagon",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/octagon.svg",
+    "id": "shape-octagon",
+    "keywords": ["shape", "polygon", "stop"],
+    "name": "Octagon",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/star.svg",
+    "id": "shape-star",
+    "keywords": ["shape", "favorite", "rating", "sparkle"],
+    "name": "Star",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/burst.svg",
+    "id": "shape-burst",
+    "keywords": ["shape", "badge", "sale", "explosion", "pop"],
+    "name": "Starburst",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/sparkle.svg",
+    "id": "shape-sparkle",
+    "keywords": ["shape", "shine", "twinkle", "star"],
+    "name": "Sparkle",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/heart.svg",
+    "id": "shape-heart",
+    "keywords": ["shape", "love", "like"],
+    "name": "Heart",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/plus.svg",
+    "id": "shape-plus",
+    "keywords": ["shape", "add", "cross"],
+    "name": "Plus",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/cross.svg",
+    "id": "shape-cross",
+    "keywords": ["shape", "x", "close", "wrong"],
+    "name": "Cross mark",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/check.svg",
+    "id": "shape-check",
+    "keywords": ["shape", "tick", "done", "correct"],
+    "name": "Check mark",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/arrow-right.svg",
+    "id": "shape-arrow-right",
+    "keywords": ["shape", "direction", "next", "pointer"],
+    "name": "Arrow right",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/arrow-left.svg",
+    "id": "shape-arrow-left",
+    "keywords": ["shape", "direction", "back", "pointer"],
+    "name": "Arrow left",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/arrow-up.svg",
+    "id": "shape-arrow-up",
+    "keywords": ["shape", "direction", "pointer"],
+    "name": "Arrow up",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/arrow-down.svg",
+    "id": "shape-arrow-down",
+    "keywords": ["shape", "direction", "pointer"],
+    "name": "Arrow down",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/chevron.svg",
+    "id": "shape-chevron",
+    "keywords": ["shape", "arrow", "next", "caret"],
+    "name": "Chevron",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/bolt.svg",
+    "id": "shape-bolt",
+    "keywords": ["shape", "flash", "energy", "power"],
+    "name": "Lightning bolt",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/speech-bubble.svg",
+    "id": "shape-speech-bubble",
+    "keywords": ["shape", "talk", "chat", "callout", "quote"],
+    "name": "Speech bubble",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/thought-bubble.svg",
+    "id": "shape-thought-bubble",
+    "keywords": ["shape", "think", "idea", "callout"],
+    "name": "Thought bubble",
+    "source": "ryu"
+  },
+  {
+    "aspect": 3.2143,
+    "category": "shapes",
+    "file": "shapes/label.svg",
+    "id": "shape-label",
+    "keywords": ["shape", "tag", "banner", "lower third"],
+    "name": "Label",
+    "source": "ryu"
+  },
+  {
+    "aspect": 3.2143,
+    "category": "shapes",
+    "file": "shapes/ribbon.svg",
+    "id": "shape-ribbon",
+    "keywords": ["shape", "banner", "title", "award"],
+    "name": "Ribbon banner",
+    "source": "ryu"
+  },
+  {
+    "aspect": 3.0,
+    "category": "shapes",
+    "file": "shapes/pill.svg",
+    "id": "shape-pill",
+    "keywords": ["shape", "capsule", "button", "badge"],
+    "name": "Pill",
+    "source": "ryu"
+  },
+  {
+    "aspect": 4.1667,
+    "category": "shapes",
+    "file": "shapes/underline.svg",
+    "id": "shape-underline",
+    "keywords": ["shape", "stroke", "highlight", "emphasis"],
+    "name": "Underline swoosh",
+    "source": "ryu"
+  },
+  {
+    "aspect": 1.0,
+    "category": "shapes",
+    "file": "shapes/crescent.svg",
+    "id": "shape-crescent",
+    "keywords": ["shape", "moon", "night"],
+    "name": "Crescent",
+    "source": "ryu"
+  }
+]
