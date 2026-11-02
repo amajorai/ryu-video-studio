@@ -1,0 +1,4 @@
+[test]
+# Bun only implements CSS Modules in its bundler; the shared field components
+# (RyuAppField) need their class names in tests. Same preload as packages/blocks.
+preload = ["../../../packages/blocks/scripts/css-modules-preload.ts"]
