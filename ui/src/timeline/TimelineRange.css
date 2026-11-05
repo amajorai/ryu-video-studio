@@ -1,0 +1,41 @@
+/*
+ * The marked I/O range across the ruler and lanes. The band ignores the
+ * pointer so clips under it stay editable; only the In/Out edges (in the
+ * ruler row) take presses.
+ */
+.studio-timeline-range {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: var(--studio-range-left, 0px);
+	z-index: 4;
+	width: var(--studio-range-width, 0px);
+	pointer-events: none;
+	background: color-mix(in srgb, var(--primary) 9%, transparent);
+	border-inline: 1px solid color-mix(in srgb, var(--primary) 65%, transparent);
+}
+.studio-timeline-range::before {
+	position: absolute;
+	inset: 0 0 auto;
+	height: 35px;
+	content: "";
+	background: color-mix(in srgb, var(--primary) 22%, transparent);
+}
+.studio-timeline-range-edge {
+	position: absolute;
+	top: 0;
+	width: 10px;
+	height: 35px;
+	pointer-events: auto;
+	touch-action: none;
+	cursor: ew-resize;
+	outline: none;
+	background: var(--primary);
+	border-radius: 2px;
+	opacity: 0.85;
+}
+.studio-timeline-range-edge:hover,
+.studio-timeline-range-edge:focus-visible {
+	box-shadow: 0 0 0 2px var(--ring);
+	opacity: 1;
+}

@@ -1,0 +1,29 @@
+/* Print only the shortcut reference sheet, wherever it is mounted. */
+@media print {
+	body:has(.studio-shortcuts-reference) * {
+		visibility: hidden;
+	}
+
+	.studio-shortcuts-reference,
+	.studio-shortcuts-reference * {
+		visibility: visible;
+	}
+
+	.studio-shortcuts-reference {
+		position: absolute;
+		inset: 0 auto auto 0;
+		width: 100%;
+		max-height: none;
+		overflow: visible;
+		color: #000;
+		background: #fff;
+	}
+
+	.studio-shortcuts-reference [data-print-hidden] {
+		display: none;
+	}
+
+	.studio-shortcuts-reference section {
+		break-inside: avoid;
+	}
+}

@@ -1,0 +1,499 @@
+// Bun Snapshot v1, https://bun.sh/docs/test/snapshots
+
+exports[`FCPXML writes a speed curve as timepts at every knot and sample 1`] = `
+"
+              <timept time="0s" value="0s" interp="smooth2" />
+              <timept time="0.133333s" value="0.072544s" interp="smooth2" />
+              <timept time="0.266667s" value="0.158245s" interp="smooth2" />
+              <timept time="0.4s" value="0.259489s" interp="smooth2" />
+              <timept time="0.533333s" value="0.379094s" interp="smooth2" />
+              <timept time="0.666667s" value="0.52039s" interp="smooth2" />
+              <timept time="0.8s" value="0.687313s" interp="smooth2" />
+              <timept time="0.933333s" value="0.884508s" interp="smooth2" />
+              <timept time="1.066667s" value="1.117467s" interp="smooth2" />
+              <timept time="1.2s" value="1.392676s" interp="smooth2" />
+              <timept time="1.333333s" value="1.717796s" interp="smooth2" />
+              <timept time="1.433333s" value="1.999777s" interp="smooth2" />
+              <timept time="1.466667s" value="2.098136s" interp="smooth2" />
+              <timept time="1.6s" value="2.460366s" interp="smooth2" />
+              <timept time="1.733333s" value="2.77738s" interp="smooth2" />
+              <timept time="1.866667s" value="3.054823s" interp="smooth2" />
+              <timept time="2s" value="3.297633s" interp="smooth2" />
+              <timept time="2.133333s" value="3.510133s" interp="smooth2" />
+              <timept time="2.266667s" value="3.696109s" interp="smooth2" />
+              <timept time="2.4s" value="3.858869s" interp="smooth2" />
+              <timept time="2.533333s" value="4s" interp="linear" />
+            "
+`;
+
+exports[`XMEML writes a speed curve as a variable-speed Time Remap graphdict 1`] = `
+"
+                    <effectid>timeremap</effectid>
+                    <effectcategory>motion</effectcategory>
+                    <effecttype>motion</effecttype>
+                    <mediatype>video</mediatype>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>variablespeed</parameterid>
+                      <name>variablespeed</name>
+                      <value>1</value>
+                    </parameter>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>speed</parameterid>
+                      <name>speed</name>
+                      <value>157.976644</value>
+                    </parameter>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>reverse</parameterid>
+                      <name>reverse</name>
+                      <value>FALSE</value>
+                    </parameter>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>graphdict</parameterid>
+                      <name>graphdict</name>
+                      <valuemin>0</valuemin>
+                      <valuemax>120</valuemax>
+                      <value>0</value>
+                      <keyframe>
+                        <when>0</when>
+                        <value>0</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>4</when>
+                        <value>2.176325</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>8</when>
+                        <value>4.747349</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>12</when>
+                        <value>7.784655</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>16</when>
+                        <value>11.372808</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>20</when>
+                        <value>15.611711</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>24</when>
+                        <value>20.619382</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>28</when>
+                        <value>26.535247</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>32</when>
+                        <value>33.524015</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>36</when>
+                        <value>41.780269</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>40</when>
+                        <value>51.533881</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>43</when>
+                        <value>59.993319</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>44</when>
+                        <value>62.944088</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>48</when>
+                        <value>73.810989</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>52</when>
+                        <value>83.32141</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>56</when>
+                        <value>91.644677</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>60</when>
+                        <value>98.928978</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>64</when>
+                        <value>105.304004</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>68</when>
+                        <value>110.883257</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>72</when>
+                        <value>115.76607</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>76</when>
+                        <value>120</value>
+                      </keyframe>
+                      <interpolation>
+                        <name>FCPCurve</name>
+                      </interpolation>
+                    </parameter>
+                  "
+`;
+
+exports[`OTIO export validates against the core schema and keeps the curve as metadata 1`] = `
+{
+  "OTIO_SCHEMA": "Timeline.1",
+  "global_start_time": {
+    "OTIO_SCHEMA": "RationalTime.1",
+    "rate": 30,
+    "value": 0,
+  },
+  "metadata": {
+    "ryu": {
+      "fps": 30,
+      "height": 1080,
+      "projectId": "00000000-0000-4000-8000-0000000000c2",
+      "width": 1920,
+    },
+  },
+  "name": "Curve",
+  "tracks": {
+    "OTIO_SCHEMA": "Stack.1",
+    "children": [
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "children": [
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "effects": [
+              {
+                "OTIO_SCHEMA": "LinearTimeWarp.1",
+                "effect_name": "LinearTimeWarp",
+                "metadata": {},
+                "name": "Speed curve (average)",
+                "time_scalar": 1.579766,
+              },
+              {
+                "OTIO_SCHEMA": "Effect.1",
+                "effect_name": "Ryu.SpeedCurve.1",
+                "metadata": {
+                  "ryu": {
+                    "keyframes": [
+                      {
+                        "source_time": {
+                          "OTIO_SCHEMA": "RationalTime.1",
+                          "rate": 30,
+                          "value": 0,
+                        },
+                        "speed": 0.5,
+                        "t": 0,
+                      },
+                      {
+                        "source_time": {
+                          "OTIO_SCHEMA": "RationalTime.1",
+                          "rate": 30,
+                          "value": 60,
+                        },
+                        "speed": 3,
+                        "t": 0.5,
+                      },
+                      {
+                        "source_time": {
+                          "OTIO_SCHEMA": "RationalTime.1",
+                          "rate": 30,
+                          "value": 120,
+                        },
+                        "speed": 1,
+                        "t": 1,
+                      },
+                    ],
+                    "preservePitch": true,
+                  },
+                },
+                "name": "Speed curve",
+              },
+            ],
+            "markers": [],
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 30,
+                  "value": 120,
+                },
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 30,
+                  "value": 0,
+                },
+              },
+              "metadata": {},
+              "name": "Ramp",
+              "target_url": "ryu://video-studio/assets/00000000-0000-4000-8000-0000000000c1",
+            },
+            "metadata": {
+              "ryu": {
+                "clipId": "00000000-0000-4000-8000-0000000000c3",
+                "speedCurve": {
+                  "points": [
+                    {
+                      "speed": 0.5,
+                      "t": 0,
+                    },
+                    {
+                      "speed": 3,
+                      "t": 0.5,
+                    },
+                    {
+                      "speed": 1,
+                      "t": 1,
+                    },
+                  ],
+                  "preservePitch": true,
+                },
+              },
+            },
+            "name": "Ramp",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 30,
+                "value": 76,
+              },
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 30,
+                "value": 0,
+              },
+            },
+          },
+        ],
+        "effects": [],
+        "kind": "Video",
+        "markers": [],
+        "metadata": {
+          "ryu": {
+            "track": 0,
+          },
+        },
+        "name": "V1",
+        "source_range": null,
+      },
+      {
+        "OTIO_SCHEMA": "Track.1",
+        "children": [
+          {
+            "OTIO_SCHEMA": "Gap.1",
+            "effects": [],
+            "markers": [],
+            "metadata": {},
+            "name": "",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 30,
+                "value": 30,
+              },
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 30,
+                "value": 0,
+              },
+            },
+          },
+          {
+            "OTIO_SCHEMA": "Clip.1",
+            "effects": [],
+            "markers": [],
+            "media_reference": {
+              "OTIO_SCHEMA": "ExternalReference.1",
+              "available_range": {
+                "OTIO_SCHEMA": "TimeRange.1",
+                "duration": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 30,
+                  "value": 120,
+                },
+                "start_time": {
+                  "OTIO_SCHEMA": "RationalTime.1",
+                  "rate": 30,
+                  "value": 0,
+                },
+              },
+              "metadata": {},
+              "name": "Music",
+              "target_url": "ryu://video-studio/assets/00000000-0000-4000-8000-0000000000c4",
+            },
+            "metadata": {
+              "ryu": {
+                "clipId": "00000000-0000-4000-8000-0000000000c5",
+              },
+            },
+            "name": "Music",
+            "source_range": {
+              "OTIO_SCHEMA": "TimeRange.1",
+              "duration": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 30,
+                "value": 60,
+              },
+              "start_time": {
+                "OTIO_SCHEMA": "RationalTime.1",
+                "rate": 30,
+                "value": 0,
+              },
+            },
+          },
+        ],
+        "effects": [],
+        "kind": "Audio",
+        "markers": [],
+        "metadata": {
+          "ryu": {
+            "track": 1,
+          },
+        },
+        "name": "A2",
+        "source_range": null,
+      },
+    ],
+    "effects": [],
+    "markers": [],
+    "metadata": {},
+    "name": "tracks",
+    "source_range": null,
+  },
+}
+`;
+
+exports[`FCPXML replays a curved clip from its butted head at a reveal cut 1`] = `
+"<timeMap>
+              <timept time="0s" value="0.347298s" interp="smooth2" />
+              <timept time="0.133333s" value="0.482829s" interp="smooth2" />
+              <timept time="0.266667s" value="0.642939s" interp="smooth2" />
+              <timept time="0.4s" value="0.832087s" interp="smooth2" />
+              <timept time="0.533333s" value="1.055538s" interp="smooth2" />
+              <timept time="0.666667s" value="1.319516s" interp="smooth2" />
+              <timept time="0.8s" value="1.631368s" interp="smooth2" />
+              <timept time="0.933333s" value="1.999777s" interp="smooth2" />
+              <timept time="1.066667s" value="2.374285s" interp="smooth2" />
+              <timept time="1.2s" value="2.702044s" interp="smooth2" />
+              <timept time="1.333333s" value="2.988891s" interp="smooth2" />
+              <timept time="1.466667s" value="3.239931s" interp="smooth2" />
+              <timept time="1.6s" value="3.459634s" interp="smooth2" />
+              <timept time="1.733333s" value="3.651913s" interp="smooth2" />
+              <timept time="1.866667s" value="3.82019s" interp="smooth2" />
+              <timept time="2s" value="3.967462s" interp="smooth2" />
+              <timept time="2.033333s" value="4s" interp="linear" />
+            </timeMap>"
+`;
+
+exports[`XMEML replays a curved clip from its butted head at a reveal cut 1`] = `
+"
+                    <effectid>timeremap</effectid>
+                    <effectcategory>motion</effectcategory>
+                    <effecttype>motion</effecttype>
+                    <mediatype>video</mediatype>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>variablespeed</parameterid>
+                      <name>variablespeed</name>
+                      <value>1</value>
+                    </parameter>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>speed</parameterid>
+                      <name>speed</name>
+                      <value>157.976644</value>
+                    </parameter>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>reverse</parameterid>
+                      <name>reverse</name>
+                      <value>FALSE</value>
+                    </parameter>
+                    <parameter authoringApp="PremierePro">
+                      <parameterid>graphdict</parameterid>
+                      <name>graphdict</name>
+                      <valuemin>0</valuemin>
+                      <valuemax>120</valuemax>
+                      <value>10.418951</value>
+                      <keyframe>
+                        <when>0</when>
+                        <value>10.418951</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>4</when>
+                        <value>14.484862</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>8</when>
+                        <value>19.288167</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>12</when>
+                        <value>24.962602</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>16</when>
+                        <value>31.666155</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>20</when>
+                        <value>39.585467</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>24</when>
+                        <value>48.941028</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>28</when>
+                        <value>59.993319</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>32</when>
+                        <value>71.228553</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>36</when>
+                        <value>81.061332</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>40</when>
+                        <value>89.666717</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>44</when>
+                        <value>97.19792</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>48</when>
+                        <value>103.789029</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>52</when>
+                        <value>109.557391</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>56</when>
+                        <value>114.605707</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>60</when>
+                        <value>119.02386</value>
+                      </keyframe>
+                      <keyframe>
+                        <when>61</when>
+                        <value>120</value>
+                      </keyframe>
+                      <interpolation>
+                        <name>FCPCurve</name>
+                      </interpolation>
+                    </parameter>
+                  "
+`;
