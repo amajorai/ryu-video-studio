@@ -1,0 +1,40 @@
+/*
+ * Lane height from the track header's height menu. The header sits inside its
+ * lane row, so the row sizes itself from the header's `data-track-height`.
+ * Medium keeps the default `.studio-track` height. Keep the pixel values in
+ * sync with `TRACK_HEIGHT_PX` in TrackHeader.tsx (checked by its test).
+ */
+.studio-track:has(> .studio-track-label[data-track-height="small"]) {
+	height: 34px;
+}
+.studio-track:has(> .studio-track-label[data-track-height="small"])
+	.studio-timeline-clip {
+	top: 4px;
+	height: 26px;
+}
+.studio-track:has(> .studio-track-label[data-track-height="large"]) {
+	height: 88px;
+}
+.studio-track:has(> .studio-track-label[data-track-height="large"])
+	.studio-timeline-clip {
+	height: 66px;
+}
+
+/*
+ * Medium and large lanes stack the track name above the controls, so the
+ * name stays readable next to the full row of track buttons. Small lanes are
+ * too short for two rows and show the controls only (rename from a taller
+ * height).
+ */
+.studio-track-label:not([data-track-height="small"]) {
+	flex-wrap: wrap;
+	row-gap: 0.1rem;
+	align-content: center;
+}
+.studio-track-label:not([data-track-height="small"]) > [data-slot="input"] {
+	flex: 1 0 100%;
+	height: 1.15rem;
+}
+.studio-track-label[data-track-height="small"] > [data-slot="input"] {
+	display: none;
+}

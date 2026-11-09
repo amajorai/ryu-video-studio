@@ -1,0 +1,311 @@
+/* Continues studio.css; main.tsx imports the parts in order. */
+@media (max-width: 680px) {
+	.studio-toolbar {
+		flex-wrap: wrap;
+	}
+	.studio-toolbar-actions {
+		flex: 1 1 100%;
+		justify-content: flex-start;
+	}
+	.studio-toolbar-secondary {
+		display: none;
+	}
+	.studio-toolbar-more {
+		display: contents;
+	}
+	.studio-timeline-toolbar {
+		flex-wrap: wrap;
+	}
+	.studio-timeline-toolbar-tools {
+		flex-basis: 100%;
+	}
+}
+
+.studio-asset {
+	display: grid;
+	grid-template-columns: minmax(0, 1fr) auto;
+	align-items: start;
+}
+.studio-source-analysis {
+	display: flex;
+	flex-direction: column;
+	grid-column: 1 / -1;
+	gap: 0.5rem;
+	font-size: 0.75rem;
+}
+.studio-asset-organization {
+	grid-column: 1 / -1;
+	padding-top: 0.35rem;
+	font-size: 0.75rem;
+}
+.studio-asset-organization summary {
+	color: var(--muted-foreground);
+	cursor: pointer;
+}
+.studio-asset-organization [data-slot="field"] {
+	margin-top: 0.35rem;
+}
+
+.studio-preview-frame {
+	container-type: inline-size;
+}
+.studio-preview-frame[data-style-profile="clean-professional"] {
+	--studio-preview-background: #000000;
+}
+.studio-preview-frame[data-style-profile="flat-motion"] {
+	--studio-preview-background: #17132b;
+}
+.studio-preview-frame[data-style-profile="minimalist-diagram"] {
+	--studio-preview-background: #f8fafc;
+}
+.studio-preview-frame[data-style-profile="cinematic"] {
+	--studio-preview-background: #08050f;
+}
+.studio-title {
+	position: absolute;
+	top: var(--studio-title-top, 50%);
+	left: var(--studio-title-left, 50%);
+	z-index: 30;
+	width: max-content;
+	max-width: 90%;
+	font-family: var(--font-sans);
+	font-size: var(--studio-title-font-size, 4cqw);
+	font-weight: 700;
+	color: var(--studio-title-color, var(--primary-foreground));
+	text-align: center;
+	white-space: pre-line;
+	text-shadow: 1px 1px 2px black;
+	opacity: var(--studio-title-opacity, 1);
+	transform: var(--studio-title-transform, translate(-50%, -50%));
+}
+/* An offset title box (backgroundOffsetX/Y): drawn behind the text, which
+   keeps its place; the title's transform makes the stacking context. */
+.studio-title::before {
+	position: absolute;
+	inset: 0;
+	z-index: -1;
+	pointer-events: none;
+	content: "";
+	background: var(--studio-title-box, transparent);
+	border-radius: inherit;
+	transform: translate(
+		var(--studio-title-box-x, 0),
+		var(--studio-title-box-y, 0)
+	);
+}
+.studio-graphic {
+	position: absolute;
+	top: var(--studio-graphic-top, 0%);
+	left: var(--studio-graphic-left, 0%);
+	z-index: 15;
+	width: var(--studio-graphic-width, 0%);
+	height: var(--studio-graphic-height, 0%);
+	pointer-events: none;
+	background-color: var(--studio-graphic-background, transparent);
+	border: var(--studio-graphic-border, 0 solid transparent);
+	border-radius: var(--studio-graphic-radius, 0.4rem);
+	opacity: var(--studio-graphic-opacity, 1);
+	clip-path: var(--studio-graphic-clip-path, none);
+	transform: var(--studio-graphic-transform, none);
+	transform-origin: center;
+}
+.studio-avatar {
+	position: absolute;
+	top: var(--studio-avatar-top, 0%);
+	left: var(--studio-avatar-left, 0%);
+	z-index: 18;
+	width: var(--studio-avatar-width, 0%);
+	height: var(--studio-avatar-height, 0%);
+	pointer-events: none;
+	opacity: var(--studio-avatar-opacity, 1);
+	filter: drop-shadow(
+		var(--studio-avatar-shadow-x, 0px) var(--studio-avatar-shadow-y, 0px)
+			var(--studio-avatar-shadow-blur, 0px)
+			color-mix(
+				in oklch,
+				var(--foreground) var(--studio-avatar-shadow-opacity, 35%),
+				transparent
+			)
+	);
+	transform: var(--studio-avatar-transform, none);
+	transform-origin: 50% 100%;
+}
+.studio-avatar-shadow {
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+	width: 80%;
+	height: 10%;
+	background-color: var(--studio-avatar-fill, var(--muted-foreground));
+	border-radius: 50%;
+	opacity: 0.55;
+	transform: scaleY(0.5);
+}
+.studio-avatar-body,
+.studio-avatar-head,
+.studio-avatar-hair,
+.studio-avatar-badge,
+.studio-avatar-arm,
+.studio-avatar-leg {
+	background-color: var(--studio-avatar-fill, var(--muted-foreground));
+}
+.studio-avatar-arm,
+.studio-avatar-leg {
+	transform: var(--studio-avatar-joint-rotation, rotate(0deg));
+}
+.studio-avatar-body {
+	position: absolute;
+	bottom: 10%;
+	left: 24%;
+	width: 52%;
+	height: 48%;
+	border-radius: 18% 18% 8% 8%;
+	box-shadow: inset 8cqw 0 0 rgb(0 0 0 / 0.12);
+}
+.studio-avatar-head {
+	position: absolute;
+	top: 8%;
+	left: 24%;
+	width: 52%;
+	height: 38%;
+	border-radius: 45% 45% 42% 42%;
+	box-shadow: inset 6cqw -2cqw 0 rgb(0 0 0 / 0.1);
+	transform: var(--studio-avatar-head-rotation, rotate(0deg));
+}
+.studio-avatar-hair {
+	position: absolute;
+	top: -5%;
+	left: 8%;
+	width: 84%;
+	height: 24%;
+	border-radius: 60% 60% 35% 35%;
+}
+.studio-avatar-eye {
+	position: absolute;
+	top: 48%;
+	width: 8%;
+	height: 10%;
+	background: #1b1b1b;
+	border-radius: 50%;
+}
+.studio-avatar-eye-left {
+	left: 28%;
+}
+.studio-avatar-eye-right {
+	right: 28%;
+}
+.studio-avatar-arm {
+	position: absolute;
+	top: 43%;
+	width: 14%;
+	height: 42%;
+	border-radius: 999px;
+	transform-origin: 50% 10%;
+}
+.studio-avatar-arm-left {
+	left: 13%;
+}
+.studio-avatar-arm-right {
+	right: 13%;
+}
+.studio-avatar-leg {
+	position: absolute;
+	top: 76%;
+	width: 15%;
+	height: 23%;
+	border-radius: 999px;
+	transform-origin: 50% 8%;
+}
+.studio-avatar-leg-left {
+	left: 31%;
+}
+.studio-avatar-leg-right {
+	right: 31%;
+}
+.studio-avatar-mouth {
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	width: var(--studio-avatar-mouth-width, 10%);
+	height: 7%;
+	background: #1b1b1b;
+	border-radius: 999px;
+	transform: translateX(-50%);
+}
+.studio-avatar-badge {
+	position: absolute;
+	bottom: 25%;
+	left: 45%;
+	width: 10%;
+	height: 8%;
+	border-radius: 50%;
+}
+.studio-stage-object {
+	position: absolute;
+	top: var(--studio-stage-object-top, 50%);
+	left: var(--studio-stage-object-left, 50%);
+	z-index: 17;
+	width: var(--studio-stage-object-width, 0%);
+	height: var(--studio-stage-object-height, 0%);
+	pointer-events: none;
+	opacity: var(--studio-stage-object-opacity, 1);
+	transform: var(--studio-stage-object-transform, translate(-50%, -50%));
+	transform-style: preserve-3d;
+}
+.studio-stage-object-front,
+.studio-stage-object-side,
+.studio-stage-object-top {
+	position: absolute;
+	background: var(--studio-stage-object-fill, #0ea5e9);
+}
+.studio-stage-object-front {
+	inset: 0;
+	box-shadow: inset -0.4rem -0.4rem 0 rgb(0 0 0 / 0.12);
+}
+.studio-stage-object-top {
+	top: -12%;
+	left: 8%;
+	width: 92%;
+	height: 14%;
+	filter: brightness(1.22);
+	transform: skewX(-45deg);
+	transform-origin: left bottom;
+}
+.studio-stage-object-side {
+	top: 0;
+	right: -12%;
+	width: 14%;
+	height: 100%;
+	filter: brightness(0.68);
+	transform: skewY(-45deg);
+	transform-origin: left top;
+}
+.studio-mesh-layer {
+	position: absolute;
+	inset: 0;
+	z-index: 19;
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+	pointer-events: none;
+	opacity: var(--studio-mesh-opacity, 1);
+}
+
+.studio-waveform {
+	width: 100%;
+	height: 100%;
+}
+.studio-waveform-message {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	font-size: 0.8rem;
+	color: white;
+}
+.studio-caption-word {
+	color: var(--primary-foreground);
+}
+.studio-caption-word[data-active="true"] {
+	color: var(--studio-caption-highlight-color, var(--warning));
+}

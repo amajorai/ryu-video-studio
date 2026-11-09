@@ -1,0 +1,104 @@
+/*
+  Title fonts for the preview: Latin subsets of the same OFL/Apache families
+  the sidecar bundles for rendering (sidecar/assets/fonts). Licenses are in
+  ./fonts/OFL.txt and ./fonts/LICENSE. Families are prefixed "Studio" so they
+  never replace a face the host UI loads under the same name.
+*/
+@font-face {
+	font-family: "Studio Inter";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 100 900;
+	src: url("./fonts/inter-latin-wght-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Roboto";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 100 900;
+	src: url("./fonts/roboto-latin-wght-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Montserrat";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 100 900;
+	src: url("./fonts/montserrat-latin-wght-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Oswald";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 100 900;
+	src: url("./fonts/oswald-latin-wght-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Playfair Display";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 100 900;
+	src: url("./fonts/playfair-display-latin-wght-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Source Code Pro";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 100 900;
+	src: url("./fonts/source-code-pro-latin-wght-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Poppins";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: url("./fonts/poppins-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Poppins";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 700;
+	src: url("./fonts/poppins-latin-700-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Bebas Neue";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: url("./fonts/bebas-neue-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Anton";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: url("./fonts/anton-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Merriweather";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: url("./fonts/merriweather-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Merriweather";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 700;
+	src: url("./fonts/merriweather-latin-700-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Permanent Marker";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: url("./fonts/permanent-marker-latin-400-normal.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Studio Lobster";
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: url("./fonts/lobster-latin-400-normal.woff2") format("woff2");
+}
